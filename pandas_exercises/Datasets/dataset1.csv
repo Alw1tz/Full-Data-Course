@@ -1,0 +1,1001 @@
+description,industry,level,size,line_code,value
+Business main customer: individuals or households,total,0,6�19 employees,C0300.01,15639
+Business main customer: individuals or households,total,0,20�49 employees,C0300.01,2943
+Business main customer: individuals or households,total,0,50�99 employees,C0300.01,639
+Business main customer: individuals or households,total,0,100+ employees,C0300.01,555
+Business main customer: individuals or households,"Agriculture, forestry, & fishing",1,total,C0300.01,348
+Business main customer: individuals or households,Agriculture,2,total,C0300.01,177
+Business main customer: individuals or households,Commercial fishing,2,total,C0300.01,3
+Business main customer: individuals or households,Forestry & logging,2,total,C0300.01,12
+Business main customer: individuals or households,"Agriculture, forestry, & fishing support services",2,total,C0300.01,159
+Business main customer: individuals or households,Mining,1,total,C0300.01,12
+Business main customer: individuals or households,Manufacturing,1,total,C0300.01,1230
+Business main customer: individuals or households,"Food, beverage, & tobacco",2,total,C0300.01,462
+Business main customer: individuals or households,"Textile, clothing, footwear, & leather",2,total,C0300.01,66
+Business main customer: individuals or households,Wood & paper product,2,total,C0300.01,117
+Business main customer: individuals or households,"Printing, publishing, & recorded media",2,total,C0300.01,3
+Business main customer: individuals or households,"Petroleum, coal, chemical, & associated product",2,total,C0300.01,54
+Business main customer: individuals or households,Non-metallic mineral product,2,total,C0300.01,54
+Business main customer: individuals or households,Metal product,2,total,C0300.01,153
+Business main customer: individuals or households,Transport and industrial machinery & equipment,2,total,C0300.01,189
+Business main customer: individuals or households,Other machinery & equipment,2,total,C0300.01,12
+Business main customer: individuals or households,Other manufacturing,2,total,C0300.01,120
+Business main customer: individuals or households,"Electricity, gas, water, & waste services",1,total,C0300.01,51
+Business main customer: individuals or households,Construction,1,total,C0300.01,2544
+Business main customer: individuals or households,Wholesale trade,1,total,C0300.01,387
+Business main customer: individuals or households,Machinery & equipment wholesaling,2,total,C0300.01,48
+Business main customer: individuals or households,Other wholesale trade,2,total,C0300.01,336
+Business main customer: individuals or households,Retail trade,1,total,C0300.01,3558
+Business main customer: individuals or households,Accommodation & food services,1,total,C0300.01,5598
+Business main customer: individuals or households,"Transport, postal, & warehousing",1,total,C0300.01,372
+Business main customer: individuals or households,Information media & telecommunications,1,total,C0300.01,123
+Business main customer: individuals or households,Publishing,2,total,C0300.01,27
+Business main customer: individuals or households,Motion picture,2,total,C0300.01,69
+Business main customer: individuals or households,Telecommunications,2,total,C0300.01,27
+Business main customer: individuals or households,Financial & insurance services,1,total,C0300.01,273
+Business main customer: individuals or households,Finance,2,total,C0300.01,81
+Business main customer: individuals or households,Insurance,2,total,C0300.01,21
+Business main customer: individuals or households,Auxiliary,2,total,C0300.01,174
+Business main customer: individuals or households,"Rental, hiring, & real estate services",1,total,C0300.01,453
+Business main customer: individuals or households,"Professional, scientific, & technical services",1,total,C0300.01,1191
+Business main customer: individuals or households,Computer systems design,2,total,C0300.01,27
+Business main customer: individuals or households,Other professional scientific,2,total,C0300.01,1167
+Business main customer: individuals or households,Administrative & support services,1,total,C0300.01,369
+Business main customer: individuals or households,Education & training,1,total,C0300.01,603
+Business main customer: individuals or households,Health care & social assistance,1,total,C0300.01,1725
+Business main customer: individuals or households,Arts & recreation services,1,total,C0300.01,453
+Business main customer: individuals or households,Other services,1,total,C0300.01,480
+Business main customer: individuals or households,total,0,total,C0300.01,19776
+Business main customer: businesses within same group,total,0,6�19 employees,C0300.02,2970
+Business main customer: businesses within same group,total,0,20�49 employees,C0300.02,756
+Business main customer: businesses within same group,total,0,50�99 employees,C0300.02,231
+Business main customer: businesses within same group,total,0,100+ employees,C0300.02,189
+Business main customer: businesses within same group,"Agriculture, forestry, & fishing",1,total,C0300.02,339
+Business main customer: businesses within same group,Agriculture,2,total,C0300.02,240
+Business main customer: businesses within same group,Commercial fishing,2,total,C0300.02,12
+Business main customer: businesses within same group,Forestry & logging,2,total,C0300.02,30
+Business main customer: businesses within same group,"Agriculture, forestry, & fishing support services",2,total,C0300.02,60
+Business main customer: businesses within same group,Mining,1,total,C0300.02,21
+Business main customer: businesses within same group,Manufacturing,1,total,C0300.02,393
+Business main customer: businesses within same group,"Food, beverage, & tobacco",2,total,C0300.02,90
+Business main customer: businesses within same group,"Textile, clothing, footwear, & leather",2,total,C0300.02,21
+Business main customer: businesses within same group,Wood & paper product,2,total,C0300.02,39
+Business main customer: businesses within same group,"Printing, publishing, & recorded media",2,total,C0300.02,24
+Business main customer: businesses within same group,"Petroleum, coal, chemical, & associated product",2,total,C0300.02,27
+Business main customer: businesses within same group,Non-metallic mineral product,2,total,C0300.02,24
+Business main customer: businesses within same group,Metal product,2,total,C0300.02,51
+Business main customer: businesses within same group,Transport and industrial machinery & equipment,2,total,C0300.02,72
+Business main customer: businesses within same group,Other machinery & equipment,2,total,C0300.02,24
+Business main customer: businesses within same group,Other manufacturing,2,total,C0300.02,18
+Business main customer: businesses within same group,"Electricity, gas, water, & waste services",1,total,C0300.02,27
+Business main customer: businesses within same group,Construction,1,total,C0300.02,984
+Business main customer: businesses within same group,Wholesale trade,1,total,C0300.02,243
+Business main customer: businesses within same group,Machinery & equipment wholesaling,2,total,C0300.02,96
+Business main customer: businesses within same group,Other wholesale trade,2,total,C0300.02,147
+Business main customer: businesses within same group,Retail trade,1,total,C0300.02,264
+Business main customer: businesses within same group,Accommodation & food services,1,total,C0300.02,234
+Business main customer: businesses within same group,"Transport, postal, & warehousing",1,total,C0300.02,198
+Business main customer: businesses within same group,Information media & telecommunications,1,total,C0300.02,57
+Business main customer: businesses within same group,Publishing,2,total,C0300.02,30
+Business main customer: businesses within same group,Motion picture,2,total,C0300.02,6
+Business main customer: businesses within same group,Telecommunications,2,total,C0300.02,18
+Business main customer: businesses within same group,Financial & insurance services,1,total,C0300.02,102
+Business main customer: businesses within same group,Finance,2,total,C0300.02,51
+Business main customer: businesses within same group,Insurance,2,total,C0300.02,6
+Business main customer: businesses within same group,Auxiliary,2,total,C0300.02,48
+Business main customer: businesses within same group,"Rental, hiring, & real estate services",1,total,C0300.02,213
+Business main customer: businesses within same group,"Professional, scientific, & technical services",1,total,C0300.02,519
+Business main customer: businesses within same group,Computer systems design,2,total,C0300.02,138
+Business main customer: businesses within same group,Other professional scientific,2,total,C0300.02,384
+Business main customer: businesses within same group,Administrative & support services,1,total,C0300.02,336
+Business main customer: businesses within same group,Education & training,1,total,C0300.02,33
+Business main customer: businesses within same group,Health care & social assistance,1,total,C0300.02,87
+Business main customer: businesses within same group,Arts & recreation services,1,total,C0300.02,18
+Business main customer: businesses within same group,Other services,1,total,C0300.02,72
+Business main customer: businesses within same group,total,0,total,C0300.02,4146
+Business main customer: retailers or wholesalers outside business group,total,0,6�19 employees,C0300.03,4290
+Business main customer: retailers or wholesalers outside business group,total,0,20�49 employees,C0300.03,1062
+Business main customer: retailers or wholesalers outside business group,total,0,50�99 employees,C0300.03,438
+Business main customer: retailers or wholesalers outside business group,total,0,100+ employees,C0300.03,339
+Business main customer: retailers or wholesalers outside business group,"Agriculture, forestry, & fishing",1,total,C0300.03,1188
+Business main customer: retailers or wholesalers outside business group,Agriculture,2,total,C0300.03,1077
+Business main customer: retailers or wholesalers outside business group,Commercial fishing,2,total,C0300.03,18
+Business main customer: retailers or wholesalers outside business group,Forestry & logging,2,total,C0300.03,33
+Business main customer: retailers or wholesalers outside business group,"Agriculture, forestry, & fishing support services",2,total,C0300.03,63
+Business main customer: retailers or wholesalers outside business group,Mining,1,total,C0300.03,12
+Business main customer: retailers or wholesalers outside business group,Manufacturing,1,total,C0300.03,1644
+Business main customer: retailers or wholesalers outside business group,"Food, beverage, & tobacco",2,total,C0300.03,624
+Business main customer: retailers or wholesalers outside business group,"Textile, clothing, footwear, & leather",2,total,C0300.03,102
+Business main customer: retailers or wholesalers outside business group,Wood & paper product,2,total,C0300.03,198
+Business main customer: retailers or wholesalers outside business group,"Printing, publishing, & recorded media",2,total,C0300.03,60
+Business main customer: retailers or wholesalers outside business group,"Petroleum, coal, chemical, & associated product",2,total,C0300.03,174
+Business main customer: retailers or wholesalers outside business group,Non-metallic mineral product,2,total,C0300.03,36
+Business main customer: retailers or wholesalers outside business group,Metal product,2,total,C0300.03,186
+Business main customer: retailers or wholesalers outside business group,Transport and industrial machinery & equipment,2,total,C0300.03,99
+Business main customer: retailers or wholesalers outside business group,Other machinery & equipment,2,total,C0300.03,57
+Business main customer: retailers or wholesalers outside business group,Other manufacturing,2,total,C0300.03,111
+Business main customer: retailers or wholesalers outside business group,"Electricity, gas, water, & waste services",1,total,C0300.03,33
+Business main customer: retailers or wholesalers outside business group,Construction,1,total,C0300.03,267
+Business main customer: retailers or wholesalers outside business group,Wholesale trade,1,total,C0300.03,1440
+Business main customer: retailers or wholesalers outside business group,Machinery & equipment wholesaling,2,total,C0300.03,225
+Business main customer: retailers or wholesalers outside business group,Other wholesale trade,2,total,C0300.03,1215
+Business main customer: retailers or wholesalers outside business group,Retail trade,1,total,C0300.03,270
+Business main customer: retailers or wholesalers outside business group,Accommodation & food services,1,total,C0300.03,384
+Business main customer: retailers or wholesalers outside business group,"Transport, postal, & warehousing",1,total,C0300.03,261
+Business main customer: retailers or wholesalers outside business group,Information media & telecommunications,1,total,C0300.03,51
+Business main customer: retailers or wholesalers outside business group,Publishing,2,total,C0300.03,24
+Business main customer: retailers or wholesalers outside business group,Motion picture,2,total,C0300.03,6
+Business main customer: retailers or wholesalers outside business group,Telecommunications,2,total,C0300.03,15
+Business main customer: retailers or wholesalers outside business group,Financial & insurance services,1,total,C0300.03,57
+Business main customer: retailers or wholesalers outside business group,Finance,2,total,C0300.03,15
+Business main customer: retailers or wholesalers outside business group,Insurance,2,total,C0300.03,3
+Business main customer: retailers or wholesalers outside business group,Auxiliary,2,total,C0300.03,45
+Business main customer: retailers or wholesalers outside business group,"Rental, hiring, & real estate services",1,total,C0300.03,57
+Business main customer: retailers or wholesalers outside business group,"Professional, scientific, & technical services",1,total,C0300.03,216
+Business main customer: retailers or wholesalers outside business group,Computer systems design,2,total,C0300.03,93
+Business main customer: retailers or wholesalers outside business group,Other professional scientific,2,total,C0300.03,126
+Business main customer: retailers or wholesalers outside business group,Administrative & support services,1,total,C0300.03,111
+Business main customer: retailers or wholesalers outside business group,Education & training,1,total,C0300.03,12
+Business main customer: retailers or wholesalers outside business group,Health care & social assistance,1,total,C0300.03,0
+Business main customer: retailers or wholesalers outside business group,Arts & recreation services,1,total,C0300.03,3
+Business main customer: retailers or wholesalers outside business group,Other services,1,total,C0300.03,120
+Business main customer: retailers or wholesalers outside business group,total,0,total,C0300.03,6132
+Business main customer: other businesses outside business group,total,0,6�19 employees,C0300.04,12555
+Business main customer: other businesses outside business group,total,0,20�49 employees,C0300.04,3282
+Business main customer: other businesses outside business group,total,0,50�99 employees,C0300.04,1020
+Business main customer: other businesses outside business group,total,0,100+ employees,C0300.04,705
+Business main customer: other businesses outside business group,"Agriculture, forestry, & fishing",1,total,C0300.04,2019
+Business main customer: other businesses outside business group,Agriculture,2,total,C0300.04,1095
+Business main customer: other businesses outside business group,Commercial fishing,2,total,C0300.04,15
+Business main customer: other businesses outside business group,Forestry & logging,2,total,C0300.04,204
+Business main customer: other businesses outside business group,"Agriculture, forestry, & fishing support services",2,total,C0300.04,702
+Business main customer: other businesses outside business group,Mining,1,total,C0300.04,75
+Business main customer: other businesses outside business group,Manufacturing,1,total,C0300.04,2517
+Business main customer: other businesses outside business group,"Food, beverage, & tobacco",2,total,C0300.04,108
+Business main customer: other businesses outside business group,"Textile, clothing, footwear, & leather",2,total,C0300.04,93
+Business main customer: other businesses outside business group,Wood & paper product,2,total,C0300.04,189
+Business main customer: other businesses outside business group,"Printing, publishing, & recorded media",2,total,C0300.04,129
+Business main customer: other businesses outside business group,"Petroleum, coal, chemical, & associated product",2,total,C0300.04,213
+Business main customer: other businesses outside business group,Non-metallic mineral product,2,total,C0300.04,117
+Business main customer: other businesses outside business group,Metal product,2,total,C0300.04,696
+Business main customer: other businesses outside business group,Transport and industrial machinery & equipment,2,total,C0300.04,657
+Business main customer: other businesses outside business group,Other machinery & equipment,2,total,C0300.04,156
+Business main customer: other businesses outside business group,Other manufacturing,2,total,C0300.04,159
+Business main customer: other businesses outside business group,"Electricity, gas, water, & waste services",1,total,C0300.04,96
+Business main customer: other businesses outside business group,Construction,1,total,C0300.04,3594
+Business main customer: other businesses outside business group,Wholesale trade,1,total,C0300.04,1341
+Business main customer: other businesses outside business group,Machinery & equipment wholesaling,2,total,C0300.04,645
+Business main customer: other businesses outside business group,Other wholesale trade,2,total,C0300.04,693
+Business main customer: other businesses outside business group,Retail trade,1,total,C0300.04,732
+Business main customer: other businesses outside business group,Accommodation & food services,1,total,C0300.04,396
+Business main customer: other businesses outside business group,"Transport, postal, & warehousing",1,total,C0300.04,1017
+Business main customer: other businesses outside business group,Information media & telecommunications,1,total,C0300.04,207
+Business main customer: other businesses outside business group,Publishing,2,total,C0300.04,90
+Business main customer: other businesses outside business group,Motion picture,2,total,C0300.04,57
+Business main customer: other businesses outside business group,Telecommunications,2,total,C0300.04,60
+Business main customer: other businesses outside business group,Financial & insurance services,1,total,C0300.04,237
+Business main customer: other businesses outside business group,Finance,2,total,C0300.04,48
+Business main customer: other businesses outside business group,Insurance,2,total,C0300.04,12
+Business main customer: other businesses outside business group,Auxiliary,2,total,C0300.04,180
+Business main customer: other businesses outside business group,"Rental, hiring, & real estate services",1,total,C0300.04,297
+Business main customer: other businesses outside business group,"Professional, scientific, & technical services",1,total,C0300.04,2931
+Business main customer: other businesses outside business group,Computer systems design,2,total,C0300.04,657
+Business main customer: other businesses outside business group,Other professional scientific,2,total,C0300.04,2274
+Business main customer: other businesses outside business group,Administrative & support services,1,total,C0300.04,963
+Business main customer: other businesses outside business group,Education & training,1,total,C0300.04,120
+Business main customer: other businesses outside business group,Health care & social assistance,1,total,C0300.04,189
+Business main customer: other businesses outside business group,Arts & recreation services,1,total,C0300.04,54
+Business main customer: other businesses outside business group,Other services,1,total,C0300.04,777
+Business main customer: other businesses outside business group,total,0,total,C0300.04,17562
+Business main customer: government,total,0,6�19 employees,C0300.05,2274
+Business main customer: government,total,0,20�49 employees,C0300.05,672
+Business main customer: government,total,0,50�99 employees,C0300.05,282
+Business main customer: government,total,0,100+ employees,C0300.05,204
+Business main customer: government,"Agriculture, forestry, & fishing",1,total,C0300.05,54
+Business main customer: government,Agriculture,2,total,C0300.05,24
+Business main customer: government,Commercial fishing,2,total,C0300.05,3
+Business main customer: government,Forestry & logging,2,total,C0300.05,0
+Business main customer: government,"Agriculture, forestry, & fishing support services",2,total,C0300.05,30
+Business main customer: government,Mining,1,total,C0300.05,0
+Business main customer: government,Manufacturing,1,total,C0300.05,72
+Business main customer: government,"Food, beverage, & tobacco",2,total,C0300.05,0
+Business main customer: government,"Textile, clothing, footwear, & leather",2,total,C0300.05,0
+Business main customer: government,Wood & paper product,2,total,C0300.05,3
+Business main customer: government,"Printing, publishing, & recorded media",2,total,C0300.05,0
+Business main customer: government,"Petroleum, coal, chemical, & associated product",2,total,C0300.05,24
+Business main customer: government,Non-metallic mineral product,2,total,C0300.05,9
+Business main customer: government,Metal product,2,total,C0300.05,15
+Business main customer: government,Transport and industrial machinery & equipment,2,total,C0300.05,3
+Business main customer: government,Other machinery & equipment,2,total,C0300.05,12
+Business main customer: government,Other manufacturing,2,total,C0300.05,12
+Business main customer: government,"Electricity, gas, water, & waste services",1,total,C0300.05,21
+Business main customer: government,Construction,1,total,C0300.05,249
+Business main customer: government,Wholesale trade,1,total,C0300.05,57
+Business main customer: government,Machinery & equipment wholesaling,2,total,C0300.05,33
+Business main customer: government,Other wholesale trade,2,total,C0300.05,21
+Business main customer: government,Retail trade,1,total,C0300.05,576
+Business main customer: government,Accommodation & food services,1,total,C0300.05,189
+Business main customer: government,"Transport, postal, & warehousing",1,total,C0300.05,69
+Business main customer: government,Information media & telecommunications,1,total,C0300.05,33
+Business main customer: government,Publishing,2,total,C0300.05,12
+Business main customer: government,Motion picture,2,total,C0300.05,15
+Business main customer: government,Telecommunications,2,total,C0300.05,6
+Business main customer: government,Financial & insurance services,1,total,C0300.05,6
+Business main customer: government,Finance,2,total,C0300.05,3
+Business main customer: government,Insurance,2,total,C0300.05,0
+Business main customer: government,Auxiliary,2,total,C0300.05,6
+Business main customer: government,"Rental, hiring, & real estate services",1,total,C0300.05,12
+Business main customer: government,"Professional, scientific, & technical services",1,total,C0300.05,381
+Business main customer: government,Computer systems design,2,total,C0300.05,87
+Business main customer: government,Other professional scientific,2,total,C0300.05,297
+Business main customer: government,Administrative & support services,1,total,C0300.05,108
+Business main customer: government,Education & training,1,total,C0300.05,393
+Business main customer: government,Health care & social assistance,1,total,C0300.05,1173
+Business main customer: government,Arts & recreation services,1,total,C0300.05,12
+Business main customer: government,Other services,1,total,C0300.05,15
+Business main customer: government,total,0,total,C0300.05,3432
+Proportion of customers on long term price contract: zero,total,0,6�19 employees,C0400.01,20001
+Proportion of customers on long term price contract: zero,total,0,20�49 employees,C0400.01,3798
+Proportion of customers on long term price contract: zero,total,0,50�99 employees,C0400.01,894
+Proportion of customers on long term price contract: zero,total,0,100+ employees,C0400.01,648
+Proportion of customers on long term price contract: zero,"Agriculture, forestry, & fishing",1,total,C0400.01,2049
+Proportion of customers on long term price contract: zero,Agriculture,2,total,C0400.01,1398
+Proportion of customers on long term price contract: zero,Commercial fishing,2,total,C0400.01,30
+Proportion of customers on long term price contract: zero,Forestry & logging,2,total,C0400.01,117
+Proportion of customers on long term price contract: zero,"Agriculture, forestry, & fishing support services",2,total,C0400.01,504
+Proportion of customers on long term price contract: zero,Mining,1,total,C0400.01,36
+Proportion of customers on long term price contract: zero,Manufacturing,1,total,C0400.01,3087
+Proportion of customers on long term price contract: zero,"Food, beverage, & tobacco",2,total,C0400.01,660
+Proportion of customers on long term price contract: zero,"Textile, clothing, footwear, & leather",2,total,C0400.01,153
+Proportion of customers on long term price contract: zero,Wood & paper product,2,total,C0400.01,330
+Proportion of customers on long term price contract: zero,"Printing, publishing, & recorded media",2,total,C0400.01,78
+Proportion of customers on long term price contract: zero,"Petroleum, coal, chemical, & associated product",2,total,C0400.01,207
+Proportion of customers on long term price contract: zero,Non-metallic mineral product,2,total,C0400.01,114
+Proportion of customers on long term price contract: zero,Metal product,2,total,C0400.01,618
+Proportion of customers on long term price contract: zero,Transport and industrial machinery & equipment,2,total,C0400.01,567
+Proportion of customers on long term price contract: zero,Other machinery & equipment,2,total,C0400.01,99
+Proportion of customers on long term price contract: zero,Other manufacturing,2,total,C0400.01,258
+Proportion of customers on long term price contract: zero,"Electricity, gas, water, & waste services",1,total,C0400.01,63
+Proportion of customers on long term price contract: zero,Construction,1,total,C0400.01,3249
+Proportion of customers on long term price contract: zero,Wholesale trade,1,total,C0400.01,1602
+Proportion of customers on long term price contract: zero,Machinery & equipment wholesaling,2,total,C0400.01,390
+Proportion of customers on long term price contract: zero,Other wholesale trade,2,total,C0400.01,1212
+Proportion of customers on long term price contract: zero,Retail trade,1,total,C0400.01,3357
+Proportion of customers on long term price contract: zero,Accommodation & food services,1,total,C0400.01,5433
+Proportion of customers on long term price contract: zero,"Transport, postal, & warehousing",1,total,C0400.01,555
+Proportion of customers on long term price contract: zero,Information media & telecommunications,1,total,C0400.01,126
+Proportion of customers on long term price contract: zero,Publishing,2,total,C0400.01,33
+Proportion of customers on long term price contract: zero,Motion picture,2,total,C0400.01,84
+Proportion of customers on long term price contract: zero,Telecommunications,2,total,C0400.01,6
+Proportion of customers on long term price contract: zero,Financial & insurance services,1,total,C0400.01,201
+Proportion of customers on long term price contract: zero,Finance,2,total,C0400.01,63
+Proportion of customers on long term price contract: zero,Insurance,2,total,C0400.01,6
+Proportion of customers on long term price contract: zero,Auxiliary,2,total,C0400.01,132
+Proportion of customers on long term price contract: zero,"Rental, hiring, & real estate services",1,total,C0400.01,411
+Proportion of customers on long term price contract: zero,"Professional, scientific, & technical services",1,total,C0400.01,2010
+Proportion of customers on long term price contract: zero,Computer systems design,2,total,C0400.01,165
+Proportion of customers on long term price contract: zero,Other professional scientific,2,total,C0400.01,1845
+Proportion of customers on long term price contract: zero,Administrative & support services,1,total,C0400.01,594
+Proportion of customers on long term price contract: zero,Education & training,1,total,C0400.01,591
+Proportion of customers on long term price contract: zero,Health care & social assistance,1,total,C0400.01,1062
+Proportion of customers on long term price contract: zero,Arts & recreation services,1,total,C0400.01,249
+Proportion of customers on long term price contract: zero,Other services,1,total,C0400.01,660
+Proportion of customers on long term price contract: zero,total,0,total,C0400.01,25341
+Proportion of customers on long term price contract: 1-25%,total,0,6�19 employees,C0400.02,5379
+Proportion of customers on long term price contract: 1-25%,total,0,20�49 employees,C0400.02,1563
+Proportion of customers on long term price contract: 1-25%,total,0,50�99 employees,C0400.02,537
+Proportion of customers on long term price contract: 1-25%,total,0,100+ employees,C0400.02,399
+Proportion of customers on long term price contract: 1-25%,"Agriculture, forestry, & fishing",1,total,C0400.02,474
+Proportion of customers on long term price contract: 1-25%,Agriculture,2,total,C0400.02,330
+Proportion of customers on long term price contract: 1-25%,Commercial fishing,2,total,C0400.02,3
+Proportion of customers on long term price contract: 1-25%,Forestry & logging,2,total,C0400.02,12
+Proportion of customers on long term price contract: 1-25%,"Agriculture, forestry, & fishing support services",2,total,C0400.02,129
+Proportion of customers on long term price contract: 1-25%,Mining,1,total,C0400.02,24
+Proportion of customers on long term price contract: 1-25%,Manufacturing,1,total,C0400.02,1125
+Proportion of customers on long term price contract: 1-25%,"Food, beverage, & tobacco",2,total,C0400.02,210
+Proportion of customers on long term price contract: 1-25%,"Textile, clothing, footwear, & leather",2,total,C0400.02,63
+Proportion of customers on long term price contract: 1-25%,Wood & paper product,2,total,C0400.02,84
+Proportion of customers on long term price contract: 1-25%,"Printing, publishing, & recorded media",2,total,C0400.02,72
+Proportion of customers on long term price contract: 1-25%,"Petroleum, coal, chemical, & associated product",2,total,C0400.02,117
+Proportion of customers on long term price contract: 1-25%,Non-metallic mineral product,2,total,C0400.02,45
+Proportion of customers on long term price contract: 1-25%,Metal product,2,total,C0400.02,186
+Proportion of customers on long term price contract: 1-25%,Transport and industrial machinery & equipment,2,total,C0400.02,204
+Proportion of customers on long term price contract: 1-25%,Other machinery & equipment,2,total,C0400.02,60
+Proportion of customers on long term price contract: 1-25%,Other manufacturing,2,total,C0400.02,84
+Proportion of customers on long term price contract: 1-25%,"Electricity, gas, water, & waste services",1,total,C0400.02,48
+Proportion of customers on long term price contract: 1-25%,Construction,1,total,C0400.02,1482
+Proportion of customers on long term price contract: 1-25%,Wholesale trade,1,total,C0400.02,654
+Proportion of customers on long term price contract: 1-25%,Machinery & equipment wholesaling,2,total,C0400.02,243
+Proportion of customers on long term price contract: 1-25%,Other wholesale trade,2,total,C0400.02,408
+Proportion of customers on long term price contract: 1-25%,Retail trade,1,total,C0400.02,618
+Proportion of customers on long term price contract: 1-25%,Accommodation & food services,1,total,C0400.02,432
+Proportion of customers on long term price contract: 1-25%,"Transport, postal, & warehousing",1,total,C0400.02,435
+Proportion of customers on long term price contract: 1-25%,Information media & telecommunications,1,total,C0400.02,96
+Proportion of customers on long term price contract: 1-25%,Publishing,2,total,C0400.02,45
+Proportion of customers on long term price contract: 1-25%,Motion picture,2,total,C0400.02,21
+Proportion of customers on long term price contract: 1-25%,Telecommunications,2,total,C0400.02,30
+Proportion of customers on long term price contract: 1-25%,Financial & insurance services,1,total,C0400.02,39
+Proportion of customers on long term price contract: 1-25%,Finance,2,total,C0400.02,9
+Proportion of customers on long term price contract: 1-25%,Insurance,2,total,C0400.02,3
+Proportion of customers on long term price contract: 1-25%,Auxiliary,2,total,C0400.02,27
+Proportion of customers on long term price contract: 1-25%,"Rental, hiring, & real estate services",1,total,C0400.02,150
+Proportion of customers on long term price contract: 1-25%,"Professional, scientific, & technical services",1,total,C0400.02,1290
+Proportion of customers on long term price contract: 1-25%,Computer systems design,2,total,C0400.02,141
+Proportion of customers on long term price contract: 1-25%,Other professional scientific,2,total,C0400.02,1152
+Proportion of customers on long term price contract: 1-25%,Administrative & support services,1,total,C0400.02,294
+Proportion of customers on long term price contract: 1-25%,Education & training,1,total,C0400.02,78
+Proportion of customers on long term price contract: 1-25%,Health care & social assistance,1,total,C0400.02,237
+Proportion of customers on long term price contract: 1-25%,Arts & recreation services,1,total,C0400.02,105
+Proportion of customers on long term price contract: 1-25%,Other services,1,total,C0400.02,297
+Proportion of customers on long term price contract: 1-25%,total,0,total,C0400.02,7878
+Proportion of customers on long term price contract: 26-50%,total,0,6�19 employees,C0400.03,1992
+Proportion of customers on long term price contract: 26-50%,total,0,20�49 employees,C0400.03,609
+Proportion of customers on long term price contract: 26-50%,total,0,50�99 employees,C0400.03,189
+Proportion of customers on long term price contract: 26-50%,total,0,100+ employees,C0400.03,153
+Proportion of customers on long term price contract: 26-50%,"Agriculture, forestry, & fishing",1,total,C0400.03,75
+Proportion of customers on long term price contract: 26-50%,Agriculture,2,total,C0400.03,45
+Proportion of customers on long term price contract: 26-50%,Commercial fishing,2,total,C0400.03,3
+Proportion of customers on long term price contract: 26-50%,Forestry & logging,2,total,C0400.03,9
+Proportion of customers on long term price contract: 26-50%,"Agriculture, forestry, & fishing support services",2,total,C0400.03,18
+Proportion of customers on long term price contract: 26-50%,Mining,1,total,C0400.03,9
+Proportion of customers on long term price contract: 26-50%,Manufacturing,1,total,C0400.03,429
+Proportion of customers on long term price contract: 26-50%,"Food, beverage, & tobacco",2,total,C0400.03,120
+Proportion of customers on long term price contract: 26-50%,"Textile, clothing, footwear, & leather",2,total,C0400.03,3
+Proportion of customers on long term price contract: 26-50%,Wood & paper product,2,total,C0400.03,39
+Proportion of customers on long term price contract: 26-50%,"Printing, publishing, & recorded media",2,total,C0400.03,27
+Proportion of customers on long term price contract: 26-50%,"Petroleum, coal, chemical, & associated product",2,total,C0400.03,36
+Proportion of customers on long term price contract: 26-50%,Non-metallic mineral product,2,total,C0400.03,6
+Proportion of customers on long term price contract: 26-50%,Metal product,2,total,C0400.03,84
+Proportion of customers on long term price contract: 26-50%,Transport and industrial machinery & equipment,2,total,C0400.03,63
+Proportion of customers on long term price contract: 26-50%,Other machinery & equipment,2,total,C0400.03,21
+Proportion of customers on long term price contract: 26-50%,Other manufacturing,2,total,C0400.03,30
+Proportion of customers on long term price contract: 26-50%,"Electricity, gas, water, & waste services",1,total,C0400.03,15
+Proportion of customers on long term price contract: 26-50%,Construction,1,total,C0400.03,546
+Proportion of customers on long term price contract: 26-50%,Wholesale trade,1,total,C0400.03,246
+Proportion of customers on long term price contract: 26-50%,Machinery & equipment wholesaling,2,total,C0400.03,111
+Proportion of customers on long term price contract: 26-50%,Other wholesale trade,2,total,C0400.03,135
+Proportion of customers on long term price contract: 26-50%,Retail trade,1,total,C0400.03,168
+Proportion of customers on long term price contract: 26-50%,Accommodation & food services,1,total,C0400.03,246
+Proportion of customers on long term price contract: 26-50%,"Transport, postal, & warehousing",1,total,C0400.03,132
+Proportion of customers on long term price contract: 26-50%,Information media & telecommunications,1,total,C0400.03,39
+Proportion of customers on long term price contract: 26-50%,Publishing,2,total,C0400.03,18
+Proportion of customers on long term price contract: 26-50%,Motion picture,2,total,C0400.03,6
+Proportion of customers on long term price contract: 26-50%,Telecommunications,2,total,C0400.03,12
+Proportion of customers on long term price contract: 26-50%,Financial & insurance services,1,total,C0400.03,24
+Proportion of customers on long term price contract: 26-50%,Finance,2,total,C0400.03,15
+Proportion of customers on long term price contract: 26-50%,Insurance,2,total,C0400.03,0
+Proportion of customers on long term price contract: 26-50%,Auxiliary,2,total,C0400.03,12
+Proportion of customers on long term price contract: 26-50%,"Rental, hiring, & real estate services",1,total,C0400.03,69
+Proportion of customers on long term price contract: 26-50%,"Professional, scientific, & technical services",1,total,C0400.03,372
+Proportion of customers on long term price contract: 26-50%,Computer systems design,2,total,C0400.03,105
+Proportion of customers on long term price contract: 26-50%,Other professional scientific,2,total,C0400.03,270
+Proportion of customers on long term price contract: 26-50%,Administrative & support services,1,total,C0400.03,147
+Proportion of customers on long term price contract: 26-50%,Education & training,1,total,C0400.03,33
+Proportion of customers on long term price contract: 26-50%,Health care & social assistance,1,total,C0400.03,195
+Proportion of customers on long term price contract: 26-50%,Arts & recreation services,1,total,C0400.03,108
+Proportion of customers on long term price contract: 26-50%,Other services,1,total,C0400.03,84
+Proportion of customers on long term price contract: 26-50%,total,0,total,C0400.03,2946
+Proportion of customers on long term price contract: 51-75%,total,0,6�19 employees,C0400.04,2205
+Proportion of customers on long term price contract: 51-75%,total,0,20�49 employees,C0400.04,597
+Proportion of customers on long term price contract: 51-75%,total,0,50�99 employees,C0400.04,228
+Proportion of customers on long term price contract: 51-75%,total,0,100+ employees,C0400.04,195
+Proportion of customers on long term price contract: 51-75%,"Agriculture, forestry, & fishing",1,total,C0400.04,249
+Proportion of customers on long term price contract: 51-75%,Agriculture,2,total,C0400.04,174
+Proportion of customers on long term price contract: 51-75%,Commercial fishing,2,total,C0400.04,3
+Proportion of customers on long term price contract: 51-75%,Forestry & logging,2,total,C0400.04,12
+Proportion of customers on long term price contract: 51-75%,"Agriculture, forestry, & fishing support services",2,total,C0400.04,63
+Proportion of customers on long term price contract: 51-75%,Mining,1,total,C0400.04,9
+Proportion of customers on long term price contract: 51-75%,Manufacturing,1,total,C0400.04,321
+Proportion of customers on long term price contract: 51-75%,"Food, beverage, & tobacco",2,total,C0400.04,87
+Proportion of customers on long term price contract: 51-75%,"Textile, clothing, footwear, & leather",2,total,C0400.04,21
+Proportion of customers on long term price contract: 51-75%,Wood & paper product,2,total,C0400.04,36
+Proportion of customers on long term price contract: 51-75%,"Printing, publishing, & recorded media",2,total,C0400.04,6
+Proportion of customers on long term price contract: 51-75%,"Petroleum, coal, chemical, & associated product",2,total,C0400.04,24
+Proportion of customers on long term price contract: 51-75%,Non-metallic mineral product,2,total,C0400.04,12
+Proportion of customers on long term price contract: 51-75%,Metal product,2,total,C0400.04,57
+Proportion of customers on long term price contract: 51-75%,Transport and industrial machinery & equipment,2,total,C0400.04,39
+Proportion of customers on long term price contract: 51-75%,Other machinery & equipment,2,total,C0400.04,24
+Proportion of customers on long term price contract: 51-75%,Other manufacturing,2,total,C0400.04,12
+Proportion of customers on long term price contract: 51-75%,"Electricity, gas, water, & waste services",1,total,C0400.04,33
+Proportion of customers on long term price contract: 51-75%,Construction,1,total,C0400.04,636
+Proportion of customers on long term price contract: 51-75%,Wholesale trade,1,total,C0400.04,201
+Proportion of customers on long term price contract: 51-75%,Machinery & equipment wholesaling,2,total,C0400.04,63
+Proportion of customers on long term price contract: 51-75%,Other wholesale trade,2,total,C0400.04,135
+Proportion of customers on long term price contract: 51-75%,Retail trade,1,total,C0400.04,312
+Proportion of customers on long term price contract: 51-75%,Accommodation & food services,1,total,C0400.04,195
+Proportion of customers on long term price contract: 51-75%,"Transport, postal, & warehousing",1,total,C0400.04,153
+Proportion of customers on long term price contract: 51-75%,Information media & telecommunications,1,total,C0400.04,54
+Proportion of customers on long term price contract: 51-75%,Publishing,2,total,C0400.04,24
+Proportion of customers on long term price contract: 51-75%,Motion picture,2,total,C0400.04,6
+Proportion of customers on long term price contract: 51-75%,Telecommunications,2,total,C0400.04,21
+Proportion of customers on long term price contract: 51-75%,Financial & insurance services,1,total,C0400.04,54
+Proportion of customers on long term price contract: 51-75%,Finance,2,total,C0400.04,24
+Proportion of customers on long term price contract: 51-75%,Insurance,2,total,C0400.04,3
+Proportion of customers on long term price contract: 51-75%,Auxiliary,2,total,C0400.04,30
+Proportion of customers on long term price contract: 51-75%,"Rental, hiring, & real estate services",1,total,C0400.04,54
+Proportion of customers on long term price contract: 51-75%,"Professional, scientific, & technical services",1,total,C0400.04,375
+Proportion of customers on long term price contract: 51-75%,Computer systems design,2,total,C0400.04,126
+Proportion of customers on long term price contract: 51-75%,Other professional scientific,2,total,C0400.04,249
+Proportion of customers on long term price contract: 51-75%,Administrative & support services,1,total,C0400.04,192
+Proportion of customers on long term price contract: 51-75%,Education & training,1,total,C0400.04,90
+Proportion of customers on long term price contract: 51-75%,Health care & social assistance,1,total,C0400.04,171
+Proportion of customers on long term price contract: 51-75%,Arts & recreation services,1,total,C0400.04,24
+Proportion of customers on long term price contract: 51-75%,Other services,1,total,C0400.04,102
+Proportion of customers on long term price contract: 51-75%,total,0,total,C0400.04,3225
+Proportion of customers on long term price contract: 76-100%,total,0,6�19 employees,C0400.05,5844
+Proportion of customers on long term price contract: 76-100%,total,0,20�49 employees,C0400.05,1713
+Proportion of customers on long term price contract: 76-100%,total,0,50�99 employees,C0400.05,597
+Proportion of customers on long term price contract: 76-100%,total,0,100+ employees,C0400.05,525
+Proportion of customers on long term price contract: 76-100%,"Agriculture, forestry, & fishing",1,total,C0400.05,897
+Proportion of customers on long term price contract: 76-100%,Agriculture,2,total,C0400.05,495
+Proportion of customers on long term price contract: 76-100%,Commercial fishing,2,total,C0400.05,12
+Proportion of customers on long term price contract: 76-100%,Forestry & logging,2,total,C0400.05,120
+Proportion of customers on long term price contract: 76-100%,"Agriculture, forestry, & fishing support services",2,total,C0400.05,270
+Proportion of customers on long term price contract: 76-100%,Mining,1,total,C0400.05,36
+Proportion of customers on long term price contract: 76-100%,Manufacturing,1,total,C0400.05,513
+Proportion of customers on long term price contract: 76-100%,"Food, beverage, & tobacco",2,total,C0400.05,162
+Proportion of customers on long term price contract: 76-100%,"Textile, clothing, footwear, & leather",2,total,C0400.05,27
+Proportion of customers on long term price contract: 76-100%,Wood & paper product,2,total,C0400.05,45
+Proportion of customers on long term price contract: 76-100%,"Printing, publishing, & recorded media",2,total,C0400.05,21
+Proportion of customers on long term price contract: 76-100%,"Petroleum, coal, chemical, & associated product",2,total,C0400.05,66
+Proportion of customers on long term price contract: 76-100%,Non-metallic mineral product,2,total,C0400.05,27
+Proportion of customers on long term price contract: 76-100%,Metal product,2,total,C0400.05,57
+Proportion of customers on long term price contract: 76-100%,Transport and industrial machinery & equipment,2,total,C0400.05,60
+Proportion of customers on long term price contract: 76-100%,Other machinery & equipment,2,total,C0400.05,36
+Proportion of customers on long term price contract: 76-100%,Other manufacturing,2,total,C0400.05,6
+Proportion of customers on long term price contract: 76-100%,"Electricity, gas, water, & waste services",1,total,C0400.05,48
+Proportion of customers on long term price contract: 76-100%,Construction,1,total,C0400.05,1272
+Proportion of customers on long term price contract: 76-100%,Wholesale trade,1,total,C0400.05,498
+Proportion of customers on long term price contract: 76-100%,Machinery & equipment wholesaling,2,total,C0400.05,144
+Proportion of customers on long term price contract: 76-100%,Other wholesale trade,2,total,C0400.05,351
+Proportion of customers on long term price contract: 76-100%,Retail trade,1,total,C0400.05,540
+Proportion of customers on long term price contract: 76-100%,Accommodation & food services,1,total,C0400.05,429
+Proportion of customers on long term price contract: 76-100%,"Transport, postal, & warehousing",1,total,C0400.05,372
+Proportion of customers on long term price contract: 76-100%,Information media & telecommunications,1,total,C0400.05,114
+Proportion of customers on long term price contract: 76-100%,Publishing,2,total,C0400.05,48
+Proportion of customers on long term price contract: 76-100%,Motion picture,2,total,C0400.05,18
+Proportion of customers on long term price contract: 76-100%,Telecommunications,2,total,C0400.05,48
+Proportion of customers on long term price contract: 76-100%,Financial & insurance services,1,total,C0400.05,324
+Proportion of customers on long term price contract: 76-100%,Finance,2,total,C0400.05,78
+Proportion of customers on long term price contract: 76-100%,Insurance,2,total,C0400.05,24
+Proportion of customers on long term price contract: 76-100%,Auxiliary,2,total,C0400.05,222
+Proportion of customers on long term price contract: 76-100%,"Rental, hiring, & real estate services",1,total,C0400.05,330
+Proportion of customers on long term price contract: 76-100%,"Professional, scientific, & technical services",1,total,C0400.05,969
+Proportion of customers on long term price contract: 76-100%,Computer systems design,2,total,C0400.05,417
+Proportion of customers on long term price contract: 76-100%,Other professional scientific,2,total,C0400.05,555
+Proportion of customers on long term price contract: 76-100%,Administrative & support services,1,total,C0400.05,522
+Proportion of customers on long term price contract: 76-100%,Education & training,1,total,C0400.05,345
+Proportion of customers on long term price contract: 76-100%,Health care & social assistance,1,total,C0400.05,1167
+Proportion of customers on long term price contract: 76-100%,Arts & recreation services,1,total,C0400.05,48
+Proportion of customers on long term price contract: 76-100%,Other services,1,total,C0400.05,249
+Proportion of customers on long term price contract: 76-100%,total,0,total,C0400.05,8682
+Proportion of customers returning for repeat business: zero,total,0,6�19 employees,C0500.01,1008
+Proportion of customers returning for repeat business: zero,total,0,20�49 employees,C0500.01,165
+Proportion of customers returning for repeat business: zero,total,0,50�99 employees,C0500.01,54
+Proportion of customers returning for repeat business: zero,total,0,100+ employees,C0500.01,24
+Proportion of customers returning for repeat business: zero,"Agriculture, forestry, & fishing",1,total,C0500.01,252
+Proportion of customers returning for repeat business: zero,Agriculture,2,total,C0500.01,186
+Proportion of customers returning for repeat business: zero,Commercial fishing,2,total,C0500.01,6
+Proportion of customers returning for repeat business: zero,Forestry & logging,2,total,C0500.01,24
+Proportion of customers returning for repeat business: zero,"Agriculture, forestry, & fishing support services",2,total,C0500.01,39
+Proportion of customers returning for repeat business: zero,Mining,1,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Manufacturing,1,total,C0500.01,30
+Proportion of customers returning for repeat business: zero,"Food, beverage, & tobacco",2,total,C0500.01,12
+Proportion of customers returning for repeat business: zero,"Textile, clothing, footwear, & leather",2,total,C0500.01,0
+Proportion of customers returning for repeat business: zero,Wood & paper product,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,"Printing, publishing, & recorded media",2,total,C0500.01,0
+Proportion of customers returning for repeat business: zero,"Petroleum, coal, chemical, & associated product",2,total,C0500.01,0
+Proportion of customers returning for repeat business: zero,Non-metallic mineral product,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Metal product,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Transport and industrial machinery & equipment,2,total,C0500.01,9
+Proportion of customers returning for repeat business: zero,Other machinery & equipment,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Other manufacturing,2,total,C0500.01,0
+Proportion of customers returning for repeat business: zero,"Electricity, gas, water, & waste services",1,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Construction,1,total,C0500.01,189
+Proportion of customers returning for repeat business: zero,Wholesale trade,1,total,C0500.01,27
+Proportion of customers returning for repeat business: zero,Machinery & equipment wholesaling,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Other wholesale trade,2,total,C0500.01,21
+Proportion of customers returning for repeat business: zero,Retail trade,1,total,C0500.01,54
+Proportion of customers returning for repeat business: zero,Accommodation & food services,1,total,C0500.01,198
+Proportion of customers returning for repeat business: zero,"Transport, postal, & warehousing",1,total,C0500.01,60
+Proportion of customers returning for repeat business: zero,Information media & telecommunications,1,total,C0500.01,9
+Proportion of customers returning for repeat business: zero,Publishing,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Motion picture,2,total,C0500.01,0
+Proportion of customers returning for repeat business: zero,Telecommunications,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,Financial & insurance services,1,total,C0500.01,15
+Proportion of customers returning for repeat business: zero,Finance,2,total,C0500.01,15
+Proportion of customers returning for repeat business: zero,Insurance,2,total,C0500.01,0
+Proportion of customers returning for repeat business: zero,Auxiliary,2,total,C0500.01,3
+Proportion of customers returning for repeat business: zero,"Rental, hiring, & real estate services",1,total,C0500.01,39
+Proportion of customers returning for repeat business: zero,"Professional, scientific, & technical services",1,total,C0500.01,48
+Proportion of customers returning for repeat business: zero,Computer systems design,2,total,C0500.01,21
+Proportion of customers returning for repeat business: zero,Other professional scientific,2,total,C0500.01,30
+Proportion of customers returning for repeat business: zero,Administrative & support services,1,total,C0500.01,27
+Proportion of customers returning for repeat business: zero,Education & training,1,total,C0500.01,54
+Proportion of customers returning for repeat business: zero,Health care & social assistance,1,total,C0500.01,222
+Proportion of customers returning for repeat business: zero,Arts & recreation services,1,total,C0500.01,15
+Proportion of customers returning for repeat business: zero,Other services,1,total,C0500.01,0
+Proportion of customers returning for repeat business: zero,total,0,total,C0500.01,1254
+Proportion of customers returning for repeat business: 1-25%,total,0,6�19 employees,C0500.02,2331
+Proportion of customers returning for repeat business: 1-25%,total,0,20�49 employees,C0500.02,459
+Proportion of customers returning for repeat business: 1-25%,total,0,50�99 employees,C0500.02,147
+Proportion of customers returning for repeat business: 1-25%,total,0,100+ employees,C0500.02,96
+Proportion of customers returning for repeat business: 1-25%,"Agriculture, forestry, & fishing",1,total,C0500.02,57
+Proportion of customers returning for repeat business: 1-25%,Agriculture,2,total,C0500.02,27
+Proportion of customers returning for repeat business: 1-25%,Commercial fishing,2,total,C0500.02,0
+Proportion of customers returning for repeat business: 1-25%,Forestry & logging,2,total,C0500.02,15
+Proportion of customers returning for repeat business: 1-25%,"Agriculture, forestry, & fishing support services",2,total,C0500.02,15
+Proportion of customers returning for repeat business: 1-25%,Mining,1,total,C0500.02,3
+Proportion of customers returning for repeat business: 1-25%,Manufacturing,1,total,C0500.02,204
+Proportion of customers returning for repeat business: 1-25%,"Food, beverage, & tobacco",2,total,C0500.02,12
+Proportion of customers returning for repeat business: 1-25%,"Textile, clothing, footwear, & leather",2,total,C0500.02,9
+Proportion of customers returning for repeat business: 1-25%,Wood & paper product,2,total,C0500.02,57
+Proportion of customers returning for repeat business: 1-25%,"Printing, publishing, & recorded media",2,total,C0500.02,9
+Proportion of customers returning for repeat business: 1-25%,"Petroleum, coal, chemical, & associated product",2,total,C0500.02,3
+Proportion of customers returning for repeat business: 1-25%,Non-metallic mineral product,2,total,C0500.02,6
+Proportion of customers returning for repeat business: 1-25%,Metal product,2,total,C0500.02,42
+Proportion of customers returning for repeat business: 1-25%,Transport and industrial machinery & equipment,2,total,C0500.02,15
+Proportion of customers returning for repeat business: 1-25%,Other machinery & equipment,2,total,C0500.02,12
+Proportion of customers returning for repeat business: 1-25%,Other manufacturing,2,total,C0500.02,39
+Proportion of customers returning for repeat business: 1-25%,"Electricity, gas, water, & waste services",1,total,C0500.02,12
+Proportion of customers returning for repeat business: 1-25%,Construction,1,total,C0500.02,804
+Proportion of customers returning for repeat business: 1-25%,Wholesale trade,1,total,C0500.02,69
+Proportion of customers returning for repeat business: 1-25%,Machinery & equipment wholesaling,2,total,C0500.02,21
+Proportion of customers returning for repeat business: 1-25%,Other wholesale trade,2,total,C0500.02,45
+Proportion of customers returning for repeat business: 1-25%,Retail trade,1,total,C0500.02,168
+Proportion of customers returning for repeat business: 1-25%,Accommodation & food services,1,total,C0500.02,471
+Proportion of customers returning for repeat business: 1-25%,"Transport, postal, & warehousing",1,total,C0500.02,105
+Proportion of customers returning for repeat business: 1-25%,Information media & telecommunications,1,total,C0500.02,21
+Proportion of customers returning for repeat business: 1-25%,Publishing,2,total,C0500.02,3
+Proportion of customers returning for repeat business: 1-25%,Motion picture,2,total,C0500.02,6
+Proportion of customers returning for repeat business: 1-25%,Telecommunications,2,total,C0500.02,6
+Proportion of customers returning for repeat business: 1-25%,Financial & insurance services,1,total,C0500.02,51
+Proportion of customers returning for repeat business: 1-25%,Finance,2,total,C0500.02,24
+Proportion of customers returning for repeat business: 1-25%,Insurance,2,total,C0500.02,0
+Proportion of customers returning for repeat business: 1-25%,Auxiliary,2,total,C0500.02,30
+Proportion of customers returning for repeat business: 1-25%,"Rental, hiring, & real estate services",1,total,C0500.02,171
+Proportion of customers returning for repeat business: 1-25%,"Professional, scientific, & technical services",1,total,C0500.02,279
+Proportion of customers returning for repeat business: 1-25%,Computer systems design,2,total,C0500.02,24
+Proportion of customers returning for repeat business: 1-25%,Other professional scientific,2,total,C0500.02,255
+Proportion of customers returning for repeat business: 1-25%,Administrative & support services,1,total,C0500.02,75
+Proportion of customers returning for repeat business: 1-25%,Education & training,1,total,C0500.02,129
+Proportion of customers returning for repeat business: 1-25%,Health care & social assistance,1,total,C0500.02,297
+Proportion of customers returning for repeat business: 1-25%,Arts & recreation services,1,total,C0500.02,39
+Proportion of customers returning for repeat business: 1-25%,Other services,1,total,C0500.02,78
+Proportion of customers returning for repeat business: 1-25%,total,0,total,C0500.02,3036
+Proportion of customers returning for repeat business: 26-50%,total,0,6�19 employees,C0500.03,5154
+Proportion of customers returning for repeat business: 26-50%,total,0,20�49 employees,C0500.03,1017
+Proportion of customers returning for repeat business: 26-50%,total,0,50�99 employees,C0500.03,222
+Proportion of customers returning for repeat business: 26-50%,total,0,100+ employees,C0500.03,135
+Proportion of customers returning for repeat business: 26-50%,"Agriculture, forestry, & fishing",1,total,C0500.03,75
+Proportion of customers returning for repeat business: 26-50%,Agriculture,2,total,C0500.03,51
+Proportion of customers returning for repeat business: 26-50%,Commercial fishing,2,total,C0500.03,3
+Proportion of customers returning for repeat business: 26-50%,Forestry & logging,2,total,C0500.03,12
+Proportion of customers returning for repeat business: 26-50%,"Agriculture, forestry, & fishing support services",2,total,C0500.03,9
+Proportion of customers returning for repeat business: 26-50%,Mining,1,total,C0500.03,6
+Proportion of customers returning for repeat business: 26-50%,Manufacturing,1,total,C0500.03,573
+Proportion of customers returning for repeat business: 26-50%,"Food, beverage, & tobacco",2,total,C0500.03,129
+Proportion of customers returning for repeat business: 26-50%,"Textile, clothing, footwear, & leather",2,total,C0500.03,24
+Proportion of customers returning for repeat business: 26-50%,Wood & paper product,2,total,C0500.03,42
+Proportion of customers returning for repeat business: 26-50%,"Printing, publishing, & recorded media",2,total,C0500.03,15
+Proportion of customers returning for repeat business: 26-50%,"Petroleum, coal, chemical, & associated product",2,total,C0500.03,12
+Proportion of customers returning for repeat business: 26-50%,Non-metallic mineral product,2,total,C0500.03,36
+Proportion of customers returning for repeat business: 26-50%,Metal product,2,total,C0500.03,117
+Proportion of customers returning for repeat business: 26-50%,Transport and industrial machinery & equipment,2,total,C0500.03,120
+Proportion of customers returning for repeat business: 26-50%,Other machinery & equipment,2,total,C0500.03,15
+Proportion of customers returning for repeat business: 26-50%,Other manufacturing,2,total,C0500.03,63
+Proportion of customers returning for repeat business: 26-50%,"Electricity, gas, water, & waste services",1,total,C0500.03,15
+Proportion of customers returning for repeat business: 26-50%,Construction,1,total,C0500.03,1083
+Proportion of customers returning for repeat business: 26-50%,Wholesale trade,1,total,C0500.03,228
+Proportion of customers returning for repeat business: 26-50%,Machinery & equipment wholesaling,2,total,C0500.03,90
+Proportion of customers returning for repeat business: 26-50%,Other wholesale trade,2,total,C0500.03,138
+Proportion of customers returning for repeat business: 26-50%,Retail trade,1,total,C0500.03,864
+Proportion of customers returning for repeat business: 26-50%,Accommodation & food services,1,total,C0500.03,1974
+Proportion of customers returning for repeat business: 26-50%,"Transport, postal, & warehousing",1,total,C0500.03,60
+Proportion of customers returning for repeat business: 26-50%,Information media & telecommunications,1,total,C0500.03,36
+Proportion of customers returning for repeat business: 26-50%,Publishing,2,total,C0500.03,9
+Proportion of customers returning for repeat business: 26-50%,Motion picture,2,total,C0500.03,24
+Proportion of customers returning for repeat business: 26-50%,Telecommunications,2,total,C0500.03,0
+Proportion of customers returning for repeat business: 26-50%,Financial & insurance services,1,total,C0500.03,57
+Proportion of customers returning for repeat business: 26-50%,Finance,2,total,C0500.03,30
+Proportion of customers returning for repeat business: 26-50%,Insurance,2,total,C0500.03,3
+Proportion of customers returning for repeat business: 26-50%,Auxiliary,2,total,C0500.03,27
+Proportion of customers returning for repeat business: 26-50%,"Rental, hiring, & real estate services",1,total,C0500.03,147
+Proportion of customers returning for repeat business: 26-50%,"Professional, scientific, & technical services",1,total,C0500.03,525
+Proportion of customers returning for repeat business: 26-50%,Computer systems design,2,total,C0500.03,39
+Proportion of customers returning for repeat business: 26-50%,Other professional scientific,2,total,C0500.03,489
+Proportion of customers returning for repeat business: 26-50%,Administrative & support services,1,total,C0500.03,177
+Proportion of customers returning for repeat business: 26-50%,Education & training,1,total,C0500.03,243
+Proportion of customers returning for repeat business: 26-50%,Health care & social assistance,1,total,C0500.03,294
+Proportion of customers returning for repeat business: 26-50%,Arts & recreation services,1,total,C0500.03,102
+Proportion of customers returning for repeat business: 26-50%,Other services,1,total,C0500.03,69
+Proportion of customers returning for repeat business: 26-50%,total,0,total,C0500.03,6534
+Proportion of customers returning for repeat business: 51-75%,total,0,6�19 employees,C0500.04,8898
+Proportion of customers returning for repeat business: 51-75%,total,0,20�49 employees,C0500.04,2151
+Proportion of customers returning for repeat business: 51-75%,total,0,50�99 employees,C0500.04,498
+Proportion of customers returning for repeat business: 51-75%,total,0,100+ employees,C0500.04,399
+Proportion of customers returning for repeat business: 51-75%,"Agriculture, forestry, & fishing",1,total,C0500.04,207
+Proportion of customers returning for repeat business: 51-75%,Agriculture,2,total,C0500.04,102
+Proportion of customers returning for repeat business: 51-75%,Commercial fishing,2,total,C0500.04,0
+Proportion of customers returning for repeat business: 51-75%,Forestry & logging,2,total,C0500.04,24
+Proportion of customers returning for repeat business: 51-75%,"Agriculture, forestry, & fishing support services",2,total,C0500.04,81
+Proportion of customers returning for repeat business: 51-75%,Mining,1,total,C0500.04,15
+Proportion of customers returning for repeat business: 51-75%,Manufacturing,1,total,C0500.04,1311
+Proportion of customers returning for repeat business: 51-75%,"Food, beverage, & tobacco",2,total,C0500.04,294
+Proportion of customers returning for repeat business: 51-75%,"Textile, clothing, footwear, & leather",2,total,C0500.04,54
+Proportion of customers returning for repeat business: 51-75%,Wood & paper product,2,total,C0500.04,81
+Proportion of customers returning for repeat business: 51-75%,"Printing, publishing, & recorded media",2,total,C0500.04,63
+Proportion of customers returning for repeat business: 51-75%,"Petroleum, coal, chemical, & associated product",2,total,C0500.04,84
+Proportion of customers returning for repeat business: 51-75%,Non-metallic mineral product,2,total,C0500.04,66
+Proportion of customers returning for repeat business: 51-75%,Metal product,2,total,C0500.04,243
+Proportion of customers returning for repeat business: 51-75%,Transport and industrial machinery & equipment,2,total,C0500.04,243
+Proportion of customers returning for repeat business: 51-75%,Other machinery & equipment,2,total,C0500.04,51
+Proportion of customers returning for repeat business: 51-75%,Other manufacturing,2,total,C0500.04,129
+Proportion of customers returning for repeat business: 51-75%,"Electricity, gas, water, & waste services",1,total,C0500.04,33
+Proportion of customers returning for repeat business: 51-75%,Construction,1,total,C0500.04,1962
+Proportion of customers returning for repeat business: 51-75%,Wholesale trade,1,total,C0500.04,513
+Proportion of customers returning for repeat business: 51-75%,Machinery & equipment wholesaling,2,total,C0500.04,240
+Proportion of customers returning for repeat business: 51-75%,Other wholesale trade,2,total,C0500.04,273
+Proportion of customers returning for repeat business: 51-75%,Retail trade,1,total,C0500.04,1902
+Proportion of customers returning for repeat business: 51-75%,Accommodation & food services,1,total,C0500.04,2442
+Proportion of customers returning for repeat business: 51-75%,"Transport, postal, & warehousing",1,total,C0500.04,282
+Proportion of customers returning for repeat business: 51-75%,Information media & telecommunications,1,total,C0500.04,138
+Proportion of customers returning for repeat business: 51-75%,Publishing,2,total,C0500.04,57
+Proportion of customers returning for repeat business: 51-75%,Motion picture,2,total,C0500.04,51
+Proportion of customers returning for repeat business: 51-75%,Telecommunications,2,total,C0500.04,27
+Proportion of customers returning for repeat business: 51-75%,Financial & insurance services,1,total,C0500.04,132
+Proportion of customers returning for repeat business: 51-75%,Finance,2,total,C0500.04,48
+Proportion of customers returning for repeat business: 51-75%,Insurance,2,total,C0500.04,6
+Proportion of customers returning for repeat business: 51-75%,Auxiliary,2,total,C0500.04,81
+Proportion of customers returning for repeat business: 51-75%,"Rental, hiring, & real estate services",1,total,C0500.04,282
+Proportion of customers returning for repeat business: 51-75%,"Professional, scientific, & technical services",1,total,C0500.04,1158
+Proportion of customers returning for repeat business: 51-75%,Computer systems design,2,total,C0500.04,153
+Proportion of customers returning for repeat business: 51-75%,Other professional scientific,2,total,C0500.04,1005
+Proportion of customers returning for repeat business: 51-75%,Administrative & support services,1,total,C0500.04,339
+Proportion of customers returning for repeat business: 51-75%,Education & training,1,total,C0500.04,210
+Proportion of customers returning for repeat business: 51-75%,Health care & social assistance,1,total,C0500.04,549
+Proportion of customers returning for repeat business: 51-75%,Arts & recreation services,1,total,C0500.04,171
+Proportion of customers returning for repeat business: 51-75%,Other services,1,total,C0500.04,294
+Proportion of customers returning for repeat business: 51-75%,total,0,total,C0500.04,11952
+Proportion of customers returning for repeat business: 76-100%,total,0,6�19 employees,C0500.05,18027
+Proportion of customers returning for repeat business: 76-100%,total,0,20�49 employees,C0500.05,4491
+Proportion of customers returning for repeat business: 76-100%,total,0,50�99 employees,C0500.05,1518
+Proportion of customers returning for repeat business: 76-100%,total,0,100+ employees,C0500.05,1263
+Proportion of customers returning for repeat business: 76-100%,"Agriculture, forestry, & fishing",1,total,C0500.05,3150
+Proportion of customers returning for repeat business: 76-100%,Agriculture,2,total,C0500.05,2076
+Proportion of customers returning for repeat business: 76-100%,Commercial fishing,2,total,C0500.05,39
+Proportion of customers returning for repeat business: 76-100%,Forestry & logging,2,total,C0500.05,198
+Proportion of customers returning for repeat business: 76-100%,"Agriculture, forestry, & fishing support services",2,total,C0500.05,837
+Proportion of customers returning for repeat business: 76-100%,Mining,1,total,C0500.05,90
+Proportion of customers returning for repeat business: 76-100%,Manufacturing,1,total,C0500.05,3357
+Proportion of customers returning for repeat business: 76-100%,"Food, beverage, & tobacco",2,total,C0500.05,792
+Proportion of customers returning for repeat business: 76-100%,"Textile, clothing, footwear, & leather",2,total,C0500.05,177
+Proportion of customers returning for repeat business: 76-100%,Wood & paper product,2,total,C0500.05,351
+Proportion of customers returning for repeat business: 76-100%,"Printing, publishing, & recorded media",2,total,C0500.05,120
+Proportion of customers returning for repeat business: 76-100%,"Petroleum, coal, chemical, & associated product",2,total,C0500.05,351
+Proportion of customers returning for repeat business: 76-100%,Non-metallic mineral product,2,total,C0500.05,99
+Proportion of customers returning for repeat business: 76-100%,Metal product,2,total,C0500.05,597
+Proportion of customers returning for repeat business: 76-100%,Transport and industrial machinery & equipment,2,total,C0500.05,549
+Proportion of customers returning for repeat business: 76-100%,Other machinery & equipment,2,total,C0500.05,162
+Proportion of customers returning for repeat business: 76-100%,Other manufacturing,2,total,C0500.05,159
+Proportion of customers returning for repeat business: 76-100%,"Electricity, gas, water, & waste services",1,total,C0500.05,147
+Proportion of customers returning for repeat business: 76-100%,Construction,1,total,C0500.05,3144
+Proportion of customers returning for repeat business: 76-100%,Wholesale trade,1,total,C0500.05,2364
+Proportion of customers returning for repeat business: 76-100%,Machinery & equipment wholesaling,2,total,C0500.05,600
+Proportion of customers returning for repeat business: 76-100%,Other wholesale trade,2,total,C0500.05,1764
+Proportion of customers returning for repeat business: 76-100%,Retail trade,1,total,C0500.05,2010
+Proportion of customers returning for repeat business: 76-100%,Accommodation & food services,1,total,C0500.05,1650
+Proportion of customers returning for repeat business: 76-100%,"Transport, postal, & warehousing",1,total,C0500.05,1137
+Proportion of customers returning for repeat business: 76-100%,Information media & telecommunications,1,total,C0500.05,228
+Proportion of customers returning for repeat business: 76-100%,Publishing,2,total,C0500.05,90
+Proportion of customers returning for repeat business: 76-100%,Motion picture,2,total,C0500.05,54
+Proportion of customers returning for repeat business: 76-100%,Telecommunications,2,total,C0500.05,81
+Proportion of customers returning for repeat business: 76-100%,Financial & insurance services,1,total,C0500.05,384
+Proportion of customers returning for repeat business: 76-100%,Finance,2,total,C0500.05,75
+Proportion of customers returning for repeat business: 76-100%,Insurance,2,total,C0500.05,30
+Proportion of customers returning for repeat business: 76-100%,Auxiliary,2,total,C0500.05,285
+Proportion of customers returning for repeat business: 76-100%,"Rental, hiring, & real estate services",1,total,C0500.05,369
+Proportion of customers returning for repeat business: 76-100%,"Professional, scientific, & technical services",1,total,C0500.05,3003
+Proportion of customers returning for repeat business: 76-100%,Computer systems design,2,total,C0500.05,714
+Proportion of customers returning for repeat business: 76-100%,Other professional scientific,2,total,C0500.05,2292
+Proportion of customers returning for repeat business: 76-100%,Administrative & support services,1,total,C0500.05,1128
+Proportion of customers returning for repeat business: 76-100%,Education & training,1,total,C0500.05,504
+Proportion of customers returning for repeat business: 76-100%,Health care & social assistance,1,total,C0500.05,1467
+Proportion of customers returning for repeat business: 76-100%,Arts & recreation services,1,total,C0500.05,207
+Proportion of customers returning for repeat business: 76-100%,Other services,1,total,C0500.05,954
+Proportion of customers returning for repeat business: 76-100%,total,0,total,C0500.05,25299
+Who reviews and sets price: this business,total,0,6�19 employees,C0700.01,28728
+Who reviews and sets price: this business,total,0,20�49 employees,C0700.01,6540
+Who reviews and sets price: this business,total,0,50�99 employees,C0700.01,1827
+Who reviews and sets price: this business,total,0,100+ employees,C0700.01,1398
+Who reviews and sets price: this business,"Agriculture, forestry, & fishing",1,total,C0700.01,1827
+Who reviews and sets price: this business,Agriculture,2,total,C0700.01,846
+Who reviews and sets price: this business,Commercial fishing,2,total,C0700.01,30
+Who reviews and sets price: this business,Forestry & logging,2,total,C0700.01,141
+Who reviews and sets price: this business,"Agriculture, forestry, & fishing support services",2,total,C0700.01,810
+Who reviews and sets price: this business,Mining,1,total,C0700.01,87
+Who reviews and sets price: this business,Manufacturing,1,total,C0700.01,5085
+Who reviews and sets price: this business,"Food, beverage, & tobacco",2,total,C0700.01,1098
+Who reviews and sets price: this business,"Textile, clothing, footwear, & leather",2,total,C0700.01,258
+Who reviews and sets price: this business,Wood & paper product,2,total,C0700.01,507
+Who reviews and sets price: this business,"Printing, publishing, & recorded media",2,total,C0700.01,198
+Who reviews and sets price: this business,"Petroleum, coal, chemical, & associated product",2,total,C0700.01,408
+Who reviews and sets price: this business,Non-metallic mineral product,2,total,C0700.01,195
+Who reviews and sets price: this business,Metal product,2,total,C0700.01,933
+Who reviews and sets price: this business,Transport and industrial machinery & equipment,2,total,C0700.01,909
+Who reviews and sets price: this business,Other machinery & equipment,2,total,C0700.01,210
+Who reviews and sets price: this business,Other manufacturing,2,total,C0700.01,372
+Who reviews and sets price: this business,"Electricity, gas, water, & waste services",1,total,C0700.01,177
+Who reviews and sets price: this business,Construction,1,total,C0700.01,6480
+Who reviews and sets price: this business,Wholesale trade,1,total,C0700.01,2697
+Who reviews and sets price: this business,Machinery & equipment wholesaling,2,total,C0700.01,759
+Who reviews and sets price: this business,Other wholesale trade,2,total,C0700.01,1935
+Who reviews and sets price: this business,Retail trade,1,total,C0700.01,3036
+Who reviews and sets price: this business,Accommodation & food services,1,total,C0700.01,5970
+Who reviews and sets price: this business,"Transport, postal, & warehousing",1,total,C0700.01,1323
+Who reviews and sets price: this business,Information media & telecommunications,1,total,C0700.01,360
+Who reviews and sets price: this business,Publishing,2,total,C0700.01,144
+Who reviews and sets price: this business,Motion picture,2,total,C0700.01,114
+Who reviews and sets price: this business,Telecommunications,2,total,C0700.01,102
+Who reviews and sets price: this business,Financial & insurance services,1,total,C0700.01,399
+Who reviews and sets price: this business,Finance,2,total,C0700.01,156
+Who reviews and sets price: this business,Insurance,2,total,C0700.01,30
+Who reviews and sets price: this business,Auxiliary,2,total,C0700.01,216
+Who reviews and sets price: this business,"Rental, hiring, & real estate services",1,total,C0700.01,864
+Who reviews and sets price: this business,"Professional, scientific, & technical services",1,total,C0700.01,4515
+Who reviews and sets price: this business,Computer systems design,2,total,C0700.01,777
+Who reviews and sets price: this business,Other professional scientific,2,total,C0700.01,3741
+Who reviews and sets price: this business,Administrative & support services,1,total,C0700.01,1437
+Who reviews and sets price: this business,Education & training,1,total,C0700.01,894
+Who reviews and sets price: this business,Health care & social assistance,1,total,C0700.01,1770
+Who reviews and sets price: this business,Arts & recreation services,1,total,C0700.01,480
+Who reviews and sets price: this business,Other services,1,total,C0700.01,1086
+Who reviews and sets price: this business,total,0,total,C0700.01,38493
+Who reviews and sets price: parent business,total,0,6�19 employees,C0700.02,2433
+Who reviews and sets price: parent business,total,0,20�49 employees,C0700.02,738
+Who reviews and sets price: parent business,total,0,50�99 employees,C0700.02,297
+Who reviews and sets price: parent business,total,0,100+ employees,C0700.02,282
+Who reviews and sets price: parent business,"Agriculture, forestry, & fishing",1,total,C0700.02,297
+Who reviews and sets price: parent business,Agriculture,2,total,C0700.02,222
+Who reviews and sets price: parent business,Commercial fishing,2,total,C0700.02,9
+Who reviews and sets price: parent business,Forestry & logging,2,total,C0700.02,30
+Who reviews and sets price: parent business,"Agriculture, forestry, & fishing support services",2,total,C0700.02,39
+Who reviews and sets price: parent business,Mining,1,total,C0700.02,12
+Who reviews and sets price: parent business,Manufacturing,1,total,C0700.02,198
+Who reviews and sets price: parent business,"Food, beverage, & tobacco",2,total,C0700.02,66
+Who reviews and sets price: parent business,"Textile, clothing, footwear, & leather",2,total,C0700.02,6
+Who reviews and sets price: parent business,Wood & paper product,2,total,C0700.02,9
+Who reviews and sets price: parent business,"Printing, publishing, & recorded media",2,total,C0700.02,12
+Who reviews and sets price: parent business,"Petroleum, coal, chemical, & associated product",2,total,C0700.02,30
+Who reviews and sets price: parent business,Non-metallic mineral product,2,total,C0700.02,12
+Who reviews and sets price: parent business,Metal product,2,total,C0700.02,12
+Who reviews and sets price: parent business,Transport and industrial machinery & equipment,2,total,C0700.02,21
+Who reviews and sets price: parent business,Other machinery & equipment,2,total,C0700.02,24
+Who reviews and sets price: parent business,Other manufacturing,2,total,C0700.02,9
+Who reviews and sets price: parent business,"Electricity, gas, water, & waste services",1,total,C0700.02,6
+Who reviews and sets price: parent business,Construction,1,total,C0700.02,300
+Who reviews and sets price: parent business,Wholesale trade,1,total,C0700.02,282
+Who reviews and sets price: parent business,Machinery & equipment wholesaling,2,total,C0700.02,102
+Who reviews and sets price: parent business,Other wholesale trade,2,total,C0700.02,177
+Who reviews and sets price: parent business,Retail trade,1,total,C0700.02,993
+Who reviews and sets price: parent business,Accommodation & food services,1,total,C0700.02,486
+Who reviews and sets price: parent business,"Transport, postal, & warehousing",1,total,C0700.02,132
+Who reviews and sets price: parent business,Information media & telecommunications,1,total,C0700.02,48
+Who reviews and sets price: parent business,Publishing,2,total,C0700.02,21
+Who reviews and sets price: parent business,Motion picture,2,total,C0700.02,15
+Who reviews and sets price: parent business,Telecommunications,2,total,C0700.02,12
+Who reviews and sets price: parent business,Financial & insurance services,1,total,C0700.02,66
+Who reviews and sets price: parent business,Finance,2,total,C0700.02,18
+Who reviews and sets price: parent business,Insurance,2,total,C0700.02,6
+Who reviews and sets price: parent business,Auxiliary,2,total,C0700.02,45
+Who reviews and sets price: parent business,"Rental, hiring, & real estate services",1,total,C0700.02,90
+Who reviews and sets price: parent business,"Professional, scientific, & technical services",1,total,C0700.02,342
+Who reviews and sets price: parent business,Computer systems design,2,total,C0700.02,114
+Who reviews and sets price: parent business,Other professional scientific,2,total,C0700.02,231
+Who reviews and sets price: parent business,Administrative & support services,1,total,C0700.02,165
+Who reviews and sets price: parent business,Education & training,1,total,C0700.02,114
+Who reviews and sets price: parent business,Health care & social assistance,1,total,C0700.02,111
+Who reviews and sets price: parent business,Arts & recreation services,1,total,C0700.02,45
+Who reviews and sets price: parent business,Other services,1,total,C0700.02,57
+Who reviews and sets price: parent business,total,0,total,C0700.02,3750
+Who reviews and sets the price: other,total,0,6�19 employees,C0700.03,4287
+Who reviews and sets the price: other,total,0,20�49 employees,C0700.03,1014
+Who reviews and sets the price: other,total,0,50�99 employees,C0700.03,324
+Who reviews and sets the price: other,total,0,100+ employees,C0700.03,237
+Who reviews and sets the price: other,"Agriculture, forestry, & fishing",1,total,C0700.03,1641
+Who reviews and sets the price: other,Agriculture,2,total,C0700.03,1401
+Who reviews and sets the price: other,Commercial fishing,2,total,C0700.03,9
+Who reviews and sets the price: other,Forestry & logging,2,total,C0700.03,99
+Who reviews and sets the price: other,"Agriculture, forestry, & fishing support services",2,total,C0700.03,132
+Who reviews and sets the price: other,Mining,1,total,C0700.03,12
+Who reviews and sets the price: other,Manufacturing,1,total,C0700.03,198
+Who reviews and sets the price: other,"Food, beverage, & tobacco",2,total,C0700.03,78
+Who reviews and sets the price: other,"Textile, clothing, footwear, & leather",2,total,C0700.03,3
+Who reviews and sets the price: other,Wood & paper product,2,total,C0700.03,18
+Who reviews and sets the price: other,"Printing, publishing, & recorded media",2,total,C0700.03,3
+Who reviews and sets the price: other,"Petroleum, coal, chemical, & associated product",2,total,C0700.03,12
+Who reviews and sets the price: other,Non-metallic mineral product,2,total,C0700.03,3
+Who reviews and sets the price: other,Metal product,2,total,C0700.03,57
+Who reviews and sets the price: other,Transport and industrial machinery & equipment,2,total,C0700.03,9
+Who reviews and sets the price: other,Other machinery & equipment,2,total,C0700.03,9
+Who reviews and sets the price: other,Other manufacturing,2,total,C0700.03,9
+Who reviews and sets the price: other,"Electricity, gas, water, & waste services",1,total,C0700.03,24
+Who reviews and sets the price: other,Construction,1,total,C0700.03,405
+Who reviews and sets the price: other,Wholesale trade,1,total,C0700.03,225
+Who reviews and sets the price: other,Machinery & equipment wholesaling,2,total,C0700.03,93
+Who reviews and sets the price: other,Other wholesale trade,2,total,C0700.03,129
+Who reviews and sets the price: other,Retail trade,1,total,C0700.03,969
+Who reviews and sets the price: other,Accommodation & food services,1,total,C0700.03,282
+Who reviews and sets the price: other,"Transport, postal, & warehousing",1,total,C0700.03,189
+Who reviews and sets the price: other,Information media & telecommunications,1,total,C0700.03,18
+Who reviews and sets the price: other,Publishing,2,total,C0700.03,3
+Who reviews and sets the price: other,Motion picture,2,total,C0700.03,6
+Who reviews and sets the price: other,Telecommunications,2,total,C0700.03,6
+Who reviews and sets the price: other,Financial & insurance services,1,total,C0700.03,180
+Who reviews and sets the price: other,Finance,2,total,C0700.03,15
+Who reviews and sets the price: other,Insurance,2,total,C0700.03,3
+Who reviews and sets the price: other,Auxiliary,2,total,C0700.03,162
+Who reviews and sets the price: other,"Rental, hiring, & real estate services",1,total,C0700.03,57
+Who reviews and sets the price: other,"Professional, scientific, & technical services",1,total,C0700.03,156
+Who reviews and sets the price: other,Computer systems design,2,total,C0700.03,60
+Who reviews and sets the price: other,Other professional scientific,2,total,C0700.03,99
+Who reviews and sets the price: other,Administrative & support services,1,total,C0700.03,147
+Who reviews and sets the price: other,Education & training,1,total,C0700.03,132
+Who reviews and sets the price: other,Health care & social assistance,1,total,C0700.03,951
+Who reviews and sets the price: other,Arts & recreation services,1,total,C0700.03,12
+Who reviews and sets the price: other,Other services,1,total,C0700.03,249
+Who reviews and sets the price: other,total,0,total,C0700.03,5862
+"When does business typically review price: regular intervals, regardless of specific events",total,0,6�19 employees,C0800.01,7365
+"When does business typically review price: regular intervals, regardless of specific events",total,0,20�49 employees,C0800.01,1869
+"When does business typically review price: regular intervals, regardless of specific events",total,0,50�99 employees,C0800.01,528
+"When does business typically review price: regular intervals, regardless of specific events",total,0,100+ employees,C0800.01,474
+"When does business typically review price: regular intervals, regardless of specific events","Agriculture, forestry, & fishing",1,total,C0800.01,408
+"When does business typically review price: regular intervals, regardless of specific events",Agriculture,2,total,C0800.01,168
+"When does business typically review price: regular intervals, regardless of specific events",Commercial fishing,2,total,C0800.01,6
+"When does business typically review price: regular intervals, regardless of specific events",Forestry & logging,2,total,C0800.01,51
+"When does business typically review price: regular intervals, regardless of specific events","Agriculture, forestry, & fishing support services",2,total,C0800.01,186
+"When does business typically review price: regular intervals, regardless of specific events",Mining,1,total,C0800.01,24
+"When does business typically review price: regular intervals, regardless of specific events",Manufacturing,1,total,C0800.01,981
+"When does business typically review price: regular intervals, regardless of specific events","Food, beverage, & tobacco",2,total,C0800.01,195
+"When does business typically review price: regular intervals, regardless of specific events","Textile, clothing, footwear, & leather",2,total,C0800.01,63
+"When does business typically review price: regular intervals, regardless of specific events",Wood & paper product,2,total,C0800.01,123
+"When does business typically review price: regular intervals, regardless of specific events","Printing, publishing, & recorded media",2,total,C0800.01,42
+"When does business typically review price: regular intervals, regardless of specific events","Petroleum, coal, chemical, & associated product",2,total,C0800.01,69
+"When does business typically review price: regular intervals, regardless of specific events",Non-metallic mineral product,2,total,C0800.01,39
+"When does business typically review price: regular intervals, regardless of specific events",Metal product,2,total,C0800.01,132
+"When does business typically review price: regular intervals, regardless of specific events",Transport and industrial machinery & equipment,2,total,C0800.01,210
+"When does business typically review price: regular intervals, regardless of specific events",Other machinery & equipment,2,total,C0800.01,30
+"When does business typically review price: regular intervals, regardless of specific events",Other manufacturing,2,total,C0800.01,75
+"When does business typically review price: regular intervals, regardless of specific events","Electricity, gas, water, & waste services",1,total,C0800.01,48
+"When does business typically review price: regular intervals, regardless of specific events",Construction,1,total,C0800.01,1692
+"When does business typically review price: regular intervals, regardless of specific events",Wholesale trade,1,total,C0800.01,522
+"When does business typically review price: regular intervals, regardless of specific events",Machinery & equipment wholesaling,2,total,C0800.01,111
+"When does business typically review price: regular intervals, regardless of specific events",Other wholesale trade,2,total,C0800.01,408
+"When does business typically review price: regular intervals, regardless of specific events",Retail trade,1,total,C0800.01,714
+"When does business typically review price: regular intervals, regardless of specific events",Accommodation & food services,1,total,C0800.01,1578
+"When does business typically review price: regular intervals, regardless of specific events","Transport, postal, & warehousing",1,total,C0800.01,378
+"When does business typically review price: regular intervals, regardless of specific events",Information media & telecommunications,1,total,C0800.01,117
+"When does business typically review price: regular intervals, regardless of specific events",Publishing,2,total,C0800.01,51
+"When does business typically review price: regular intervals, regardless of specific events",Motion picture,2,total,C0800.01,30
+"When does business typically review price: regular intervals, regardless of specific events",Telecommunications,2,total,C0800.01,33
+"When does business typically review price: regular intervals, regardless of specific events",Financial & insurance services,1,total,C0800.01,138
+"When does business typically review price: regular intervals, regardless of specific events",Finance,2,total,C0800.01,51
+"When does business typically review price: regular intervals, regardless of specific events",Insurance,2,total,C0800.01,3
+"When does business typically review price: regular intervals, regardless of specific events",Auxiliary,2,total,C0800.01,87
+"When does business typically review price: regular intervals, regardless of specific events","Rental, hiring, & real estate services",1,total,C0800.01,306
+"When does business typically review price: regular intervals, regardless of specific events","Professional, scientific, & technical services",1,total,C0800.01,1467
+"When does business typically review price: regular intervals, regardless of specific events",Computer systems design,2,total,C0800.01,207
+"When does business typically review price: regular intervals, regardless of specific events",Other professional scientific,2,total,C0800.01,1266
+"When does business typically review price: regular intervals, regardless of specific events",Administrative & support services,1,total,C0800.01,423
+"When does business typically review price: regular intervals, regardless of specific events",Education & training,1,total,C0800.01,294
+"When does business typically review price: regular intervals, regardless of specific events",Health care & social assistance,1,total,C0800.01,699
+"When does business typically review price: regular intervals, regardless of specific events",Arts & recreation services,1,total,C0800.01,201
+"When does business typically review price: regular intervals, regardless of specific events",Other services,1,total,C0800.01,234
+"When does business typically review price: regular intervals, regardless of specific events",total,0,total,C0800.01,10236
+When does business typically review price: in response to specific events only,total,0,6�19 employees,C0800.02,3882
+When does business typically review price: in response to specific events only,total,0,20�49 employees,C0800.02,717
+When does business typically review price: in response to specific events only,total,0,50�99 employees,C0800.02,186
+When does business typically review price: in response to specific events only,total,0,100+ employees,C0800.02,102
+When does business typically review price: in response to specific events only,"Agriculture, forestry, & fishing",1,total,C0800.02,276
+When does business typically review price: in response to specific events only,Agriculture,2,total,C0800.02,159
+When does business typically review price: in response to specific events only,Commercial fishing,2,total,C0800.02,6
+When does business typically review price: in response to specific events only,Forestry & logging,2,total,C0800.02,18
+When does business typically review price: in response to specific events only,"Agriculture, forestry, & fishing support services",2,total,C0800.02,93
+When does business typically review price: in response to specific events only,Mining,1,total,C0800.02,9
+When does business typically review price: in response to specific events only,Manufacturing,1,total,C0800.02,684
+When does business typically review price: in response to specific events only,"Food, beverage, & tobacco",2,total,C0800.02,141
+When does business typically review price: in response to specific events only,"Textile, clothing, footwear, & leather",2,total,C0800.02,15
+When does business typically review price: in response to specific events only,Wood & paper product,2,total,C0800.02,51
+When does business typically review price: in response to specific events only,"Printing, publishing, & recorded media",2,total,C0800.02,39
+When does business typically review price: in response to specific events only,"Petroleum, coal, chemical, & associated product",2,total,C0800.02,48
+When does business typically review price: in response to specific events only,Non-metallic mineral product,2,total,C0800.02,33
+When does business typically review price: in response to specific events only,Metal product,2,total,C0800.02,144
+When does business typically review price: in response to specific events only,Transport and industrial machinery & equipment,2,total,C0800.02,93
+When does business typically review price: in response to specific events only,Other machinery & equipment,2,total,C0800.02,51
+When does business typically review price: in response to specific events only,Other manufacturing,2,total,C0800.02,66
+When does business typically review price: in response to specific events only,"Electricity, gas, water, & waste services",1,total,C0800.02,24
+When does business typically review price: in response to specific events only,Construction,1,total,C0800.02,864
+When does business typically review price: in response to specific events only,Wholesale trade,1,total,C0800.02,444
+When does business typically review price: in response to specific events only,Machinery & equipment wholesaling,2,total,C0800.02,105
+When does business typically review price: in response to specific events only,Other wholesale trade,2,total,C0800.02,336
+When does business typically review price: in response to specific events only,Retail trade,1,total,C0800.02,489
+When does business typically review price: in response to specific events only,Accommodation & food services,1,total,C0800.02,603
+When does business typically review price: in response to specific events only,"Transport, postal, & warehousing",1,total,C0800.02,156
+When does business typically review price: in response to specific events only,Information media & telecommunications,1,total,C0800.02,75
+When does business typically review price: in response to specific events only,Publishing,2,total,C0800.02,36
+When does business typically review price: in response to specific events only,Motion picture,2,total,C0800.02,21
+When does business typically review price: in response to specific events only,Telecommunications,2,total,C0800.02,15
+When does business typically review price: in response to specific events only,Financial & insurance services,1,total,C0800.02,60
+When does business typically review price: in response to specific events only,Finance,2,total,C0800.02,24
+When does business typically review price: in response to specific events only,Insurance,2,total,C0800.02,3
+When does business typically review price: in response to specific events only,Auxiliary,2,total,C0800.02,36
+When does business typically review price: in response to specific events only,"Rental, hiring, & real estate services",1,total,C0800.02,120
+When does business typically review price: in response to specific events only,"Professional, scientific, & technical services",1,total,C0800.02,426
+When does business typically review price: in response to specific events only,Computer systems design,2,total,C0800.02,138
+When does business typically review price: in response to specific events only,Other professional scientific,2,total,C0800.02,291
+When does business typically review price: in response to specific events only,Administrative & support services,1,total,C0800.02,225
+When does business typically review price: in response to specific events only,Education & training,1,total,C0800.02,96
+When does business typically review price: in response to specific events only,Health care & social assistance,1,total,C0800.02,135
+When does business typically review price: in response to specific events only,Arts & recreation services,1,total,C0800.02,54
+When does business typically review price: in response to specific events only,Other services,1,total,C0800.02,138
+When does business typically review price: in response to specific events only,total,0,total,C0800.02,4890
+When does business typically review price: regular intervals and in response to specific events,total,0,6�19 employees,C0800.03,17250
+When does business typically review price: regular intervals and in response to specific events,total,0,20�49 employees,C0800.03,3906
+When does business typically review price: regular intervals and in response to specific events,total,0,50�99 employees,C0800.03,1101
+When does business typically review price: regular intervals and in response to specific events,total,0,100+ employees,C0800.03,816
+When does business typically review price: regular intervals and in response to specific events,"Agriculture, forestry, & fishing",1,total,C0800.03,1083
+When does business typically review price: regular intervals and in response to specific events,Agriculture,2,total,C0800.03,492
+When does business typically review price: regular intervals and in response to specific events,Commercial fishing,2,total,C0800.03,18
+When does business typically review price: regular intervals and in response to specific events,Forestry & logging,2,total,C0800.03,69
+When does business typically review price: regular intervals and in response to specific events,"Agriculture, forestry, & fishing support services",2,total,C0800.03,507
+When does business typically review price: regular intervals and in response to specific events,Mining,1,total,C0800.03,57
+When does business typically review price: regular intervals and in response to specific events,Manufacturing,1,total,C0800.03,3411
+When does business typically review price: regular intervals and in response to specific events,"Food, beverage, & tobacco",2,total,C0800.03,759
+When does business typically review price: regular intervals and in response to specific events,"Textile, clothing, footwear, & leather",2,total,C0800.03,177
+When does business typically review price: regular intervals and in response to specific events,Wood & paper product,2,total,C0800.03,336
+When does business typically review price: regular intervals and in response to specific events,"Printing, publishing, & recorded media",2,total,C0800.03,114
+When does business typically review price: regular intervals and in response to specific events,"Petroleum, coal, chemical, & associated product",2,total,C0800.03,288
+When does business typically review price: regular intervals and in response to specific events,Non-metallic mineral product,2,total,C0800.03,123
+When does business typically review price: regular intervals and in response to specific events,Metal product,2,total,C0800.03,654
+When does business typically review price: regular intervals and in response to specific events,Transport and industrial machinery & equipment,2,total,C0800.03,603
+When does business typically review price: regular intervals and in response to specific events,Other machinery & equipment,2,total,C0800.03,129
+When does business typically review price: regular intervals and in response to specific events,Other manufacturing,2,total,C0800.03,228
+When does business typically review price: regular intervals and in response to specific events,"Electricity, gas, water, & waste services",1,total,C0800.03,102
+When does business typically review price: regular intervals and in response to specific events,Construction,1,total,C0800.03,3843
+When does business typically review price: regular intervals and in response to specific events,Wholesale trade,1,total,C0800.03,1722
+When does business typically review price: regular intervals and in response to specific events,Machinery & equipment wholesaling,2,total,C0800.03,534
+When does business typically review price: regular intervals and in response to specific events,Other wholesale trade,2,total,C0800.03,1188
+When does business typically review price: regular intervals and in response to specific events,Retail trade,1,total,C0800.03,1830
+When does business typically review price: regular intervals and in response to specific events,Accommodation & food services,1,total,C0800.03,3783
+When does business typically review price: regular intervals and in response to specific events,"Transport, postal, & warehousing",1,total,C0800.03,732
+When does business typically review price: regular intervals and in response to specific events,Information media & telecommunications,1,total,C0800.03,168
+When does business typically review price: regular intervals and in response to specific events,Publishing,2,total,C0800.03,54
+When does business typically review price: regular intervals and in response to specific events,Motion picture,2,total,C0800.03,63
+When does business typically review price: regular intervals and in response to specific events,Telecommunications,2,total,C0800.03,48
+When does business typically review price: regular intervals and in response to specific events,Financial & insurance services,1,total,C0800.03,198
+When does business typically review price: regular intervals and in response to specific events,Finance,2,total,C0800.03,81
+When does business typically review price: regular intervals and in response to specific events,Insurance,2,total,C0800.03,24
+When does business typically review price: regular intervals and in response to specific events,Auxiliary,2,total,C0800.03,96
+When does business typically review price: regular intervals and in response to specific events,"Rental, hiring, & real estate services",1,total,C0800.03,438
+When does business typically review price: regular intervals and in response to specific events,"Professional, scientific, & technical services",1,total,C0800.03,2604
+When does business typically review price: regular intervals and in response to specific events,Computer systems design,2,total,C0800.03,423
+When does business typically review price: regular intervals and in response to specific events,Other professional scientific,2,total,C0800.03,2181
+When does business typically review price: regular intervals and in response to specific events,Administrative & support services,1,total,C0800.03,774
+When does business typically review price: regular intervals and in response to specific events,Education & training,1,total,C0800.03,495
+When does business typically review price: regular intervals and in response to specific events,Health care & social assistance,1,total,C0800.03,900
+When does business typically review price: regular intervals and in response to specific events,Arts & recreation services,1,total,C0800.03,216
+When does business typically review price: regular intervals and in response to specific events,Other services,1,total,C0800.03,714
+When does business typically review price: regular intervals and in response to specific events,total,0,total,C0800.03,23076
+Frequency of price review: daily,total,0,6�19 employees,C0900.01,1104
+Frequency of price review: daily,total,0,20�49 employees,C0900.01,366
+Frequency of price review: daily,total,0,50�99 employees,C0900.01,108
+Frequency of price review: daily,total,0,100+ employees,C0900.01,120
+Frequency of price review: daily,"Agriculture, forestry, & fishing",1,total,C0900.01,84
+Frequency of price review: daily,Agriculture,2,total,C0900.01,42
+Frequency of price review: daily,Commercial fishing,2,total,C0900.01,0
+Frequency of price review: daily,Forestry & logging,2,total,C0900.01,6
+Frequency of price review: daily,"Agriculture, forestry, & fishing support services",2,total,C0900.01,36
+Frequency of price review: daily,Mining,1,total,C0900.01,6
+Frequency of price review: daily,Manufacturing,1,total,C0900.01,237
+Frequency of price review: daily,"Food, beverage, & tobacco",2,total,C0900.01,30
+Frequency of price review: daily,"Textile, clothing, footwear, & leather",2,total,C0900.01,9
