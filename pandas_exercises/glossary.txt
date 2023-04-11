@@ -1,0 +1,66 @@
+Lectura de datos:
+
+    pd.read_csv(): Lee un archivo CSV y lo convierte en un DataFrame de Pandas.
+    pd.read_excel(): Lee un archivo Excel y lo convierte en un DataFrame de Pandas.
+    pd.read_sql(): Lee una consulta SQL y la convierte en un DataFrame de Pandas.
+    pd.read_json(): Lee un archivo JSON y lo convierte en un DataFrame de Pandas.
+    pd.read_html(): Lee una tabla HTML y la convierte en un DataFrame de Pandas.
+    pd.read_clipboard(): Lee el contenido del portapapeles y lo convierte en un DataFrame de Pandas.
+    pd.read_parquet(): Lee un archivo Parquet y lo convierte en un DataFrame de Pandas.
+    pd.read_feather(): Lee un archivo Feather y lo convierte en un DataFrame de Pandas.
+    pd.read_pickle(): Lee un archivo pickle y lo convierte en un DataFrame de Pandas.
+
+Exploración de datos:
+
+    df.head(): Muestra las primeras filas de un DataFrame.
+    df.tail(): Muestra las últimas filas de un DataFrame.
+    df.info(): Muestra información sobre las columnas, tipos de datos y valores nulos de un DataFrame.
+    df.describe(): Muestra estadísticas descriptivas para las columnas numéricas de un DataFrame.
+    df.shape: Retorna una tupla que representa las dimensiones del DataFrame.
+    df.columns: Retorna una lista con los nombres de las columnas del DataFrame.
+    df.isnull(): Retorna un DataFrame booleano que indica qué valores son nulos.
+    df.value_counts(): Cuenta el número de ocurrencias de valores únicos en una columna.
+    df.dtypes: Retorna una serie con los tipos de datos de cada columna del DataFrame.
+    df.select_dtypes(): Retorna un DataFrame con las columnas que tienen un tipo de datos específico.
+    df.sample(): Retorna un DataFrame con una muestra aleatoria de filas.
+    df.nunique(): Cuenta el número de valores únicos en cada columna de un DataFrame.
+    df.corr(): Calcula la correlación entre las columnas de un DataFrame.
+    df.value_counts(normalize=True): Cuenta el número de ocurrencias de valores únicos en una columna y normaliza los resultados para mostrar el porcentaje de cada valor.
+    df.drop_duplicates(): Elimina las filas duplicadas en un DataFrame.
+    df.info(memory_usage='deep'): Muestra información sobre el uso de memoria de un DataFrame, incluyendo la memoria utilizada por cada columna.
+
+Manipulación de datos:
+
+    df.drop(): Elimina filas o columnas de un DataFrame.
+    df.rename(): Renombra las columnas de un DataFrame.
+    df.sort_values(): Ordena un DataFrame por una o más columnas.
+    df.groupby(): Agrupa un DataFrame por una o más columnas y aplica una función de agregación a cada grupo.
+    df.merge(): Combina dos DataFrames en uno nuevo a partir de una columna compartida.
+    df.fillna(): Rellena los valores nulos de un DataFrame con un valor específico.
+    df.replace(): Reemplaza un valor por otro en un DataFrame.
+    df.pivot(): Crea una tabla pivote a partir de un DataFrame.
+    df.melt(): Derrite un DataFrame de formato ancho en uno de formato largo.
+    df.apply(): Aplica una función a cada elemento de un DataFrame.
+    df.groupby().apply(): Aplica una función personalizada a cada grupo de un DataFrame agrupado.
+    df.merge(how='left'): Combina dos DataFrames en uno nuevo, conservando todas las filas del DataFrame izquierdo y agregando las columnas del DataFrame derecho.
+    df.sort_index(): Ordena un DataFrame por el índice.
+    df.stack(): Convierte un DataFrame de formato ancho en uno de formato largo.
+    df.set_index(): Define una columna como índice de un DataFrame.
+
+Visualización de datos:
+
+    df.plot(): Crea un gráfico a partir de un DataFrame.
+    sns.countplot(): Crea un gráfico de barras para contar las ocurrencias de valores en una columna.
+    sns.scatterplot(): Crea un gráfico de dispersión para mostrar la relación entre dos columnas.
+    sns.lineplot(): Crea un gráfico de línea para mostrar la relación entre dos columnas.
+    sns.barplot(): Crea un gráfico de barras para mostrar una relación entre dos columnas, con una barra por valor único en una columna.
+    sns.heatmap(): Crea un mapa de calor para mostrar la relación entre dos columnas, con un gradiente de colores que indica la intensidad de la relación.
+    sns.pairplot(): Crea un conjunto de gráficos de dispersión para mostrar la relación entre múltiples columnas.
+    df.plot.hexbin(): Crea un gráfico hexagonal para mostrar la relación entre dos columnas en un conjunto de datos grande.
+    sns.boxplot(): Crea un gráfico de caja para mostrar la distribución de los valores en una columna.
+    sns.violinplot(): Crea un gráfico de violín para mostrar la distribución de los valores en una columna, con un indicador de densidad.
+    sns.jointplot(): Crea un gráfico de dispersión para mostrar la relación entre dos columnas, con histogramas de cada columna en los márgenes.
+    sns.catplot(): Crea un gráfico categórico para mostrar la relación entre múltiples columnas.
+    df.plot.area(): Crea un gráfico de área para mostrar la distribución de los valores en múltiples columnas a lo largo del tiempo.
+
+
