@@ -1,0 +1,58 @@
+# Most used functions
+
+-> Crear un contexto de Spark:
+
+from pyspark.sql import SparkSession
+
+    spark = SparkSession.builder \
+        .appName("myApp") \
+        .config("spark.some.config.option", "some-value") \
+        .getOrCreate()
+
+-> Leer un archivo en formato CSV:
+
+    df = spark.read.format("csv") \
+        .option("header", "true") \
+        .option("inferSchema", "true") \
+        .load("ruta/al/archivo.csv")
+
+-> Leer un archivo en formato Parquet:
+
+    df = spark.read.format("parquet") \
+        .load("ruta/al/archivo.parquet")
+
+-> Escribir un DataFrame a un archivo en formato CSV:
+
+    df.write.format("csv") \
+        .option("header", "true") \
+        .mode("overwrite") \
+        .save("ruta/de/destino")
+
+-> Escribir un DataFrame a un archivo en formato Parquet:
+
+    df.write.format("parquet") \
+        .mode("overwrite") \
+        .save("ruta/de/destino")
+
+-> Seleccionar columnas de un DataFrame:
+
+    df.select("columna1", "columna2")
+
+-> Filtrar filas de un DataFrame:
+
+    df.filter(df["columna1"] > 5)
+
+-> Agregar una columna a un DataFrame:
+
+    from pyspark.sql.functions import lit
+
+    df.withColumn("nueva_columna", lit(0))
+
+-> Agrupar y sumar valores en un DataFrame:
+
+    df.groupBy("columna1") \
+        .sum("columna2")
+
+-> Unir dos DataFrames:
+
+    df1.join(df2, df1["columna1"] == df2["columna1"])
