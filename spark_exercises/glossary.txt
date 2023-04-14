@@ -1,5 +1,6 @@
-# Most used functions
+# Most used functions: 
 
+# :> this works but not in Databricks 
 -> Crear un contexto de Spark:
 
 from pyspark.sql import SparkSession
